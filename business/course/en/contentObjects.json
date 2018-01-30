@@ -1,0 +1,301 @@
+[
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg"
+    },
+    "_id": "5a37efb3b6720cc118932746",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Many businesses are now using data science as part of their business model, or to inform new ones. To successfully exploit data science, organisations should understand how data is creating value for their business. In this module, we explore the idea of a&nbsp;value proposition and different models that businesses are using to exploit data science.&nbsp;&nbsp;</p>",
+    "displayTitle": "Data science and business models",
+    "title": "Data science and business models",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>Data science means business&nbsp;by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" tabindex=\"0\" target=\"_blank\">Creative Commons Attribution 4.0 International Licence</a></p><p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share&nbsp;</em>(including for commercial purposes) subject to the conditions of the license outlined here.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" tabindex=\"0\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain what a value proposition is"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Explain the link between a value proposition and a business model"
+        },
+        {
+          "level": "strategist",
+          "credits": 5,
+          "outcome": "Describe different business models that exploit data science"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy;&nbsp;<a href=\"https://theodi.org/\" target=\"_blank\">Open Data Institute</a></p>",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/efa0d45f4d5eeac4d12a9bef83ac2a6169568150.jpg"
+    },
+    "_id": "5a391539b6720cc11893276d",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Having a good pitch is essential for&nbsp;establishing and growing your data science business or idea. In this module, you will learn how to explain the components of a pitch, identify different audiences for your pitch and learn&nbsp;tips for&nbsp;enhancing&nbsp;your pitch.</p>",
+    "displayTitle": "Pitching data science",
+    "title": "Pitching data science",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>Data science means business&nbsp;by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" tabindex=\"0\" target=\"_blank\">Creative Commons Attribution 4.0 International Licence</a></p><p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share&nbsp;</em>(including for commercial purposes) subject to the conditions of the license outlined here.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" tabindex=\"0\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the components that make up a pitch",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Identify different audiences for your pitch",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "List tips to enhance your pitch",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy; Open Data Institute</p>",
+      "SL_text": "",
+      "_items": []
+    }
+  },
+  {
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/0ff95907dcbd5603b0da0ce73f3b87e69bcd14c0.jpeg"
+    },
+    "_id": "5a4f992cb6720cc1189327ec",
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Data is moving from being scarce and difficult to process to being abundant and easy to use. But harnessing its value for economic and social benefit &ndash; in ways that support innovation and deliver social justice &ndash; is hard. Companies are finding news ways to create value from data and the market is evolving to match the changing landscape.&nbsp;In this module, we will look at some of the markets surrounding data and how these relate to new opportunities and business models.</p>",
+    "displayTitle": "Data markets and licensing",
+    "title": "Data markets and licensing",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_ODILicence": {
+      "_items": [
+        {
+          "title": "",
+          "description": "<p>Data science means business&nbsp;by&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a>&nbsp;is licensed under a&nbsp;<a href=\"https://creativecommons.org/licenses/by/4.0/\" tabindex=\"0\" target=\"_blank\">Creative Commons Attribution 4.0 International Licence</a></p><p>The content, including text and structure is available for you to&nbsp;<em>use</em>,&nbsp;<em>reuse</em>&nbsp;and&nbsp;<em>share&nbsp;</em>(including for commercial purposes) subject to the conditions of the license outlined here.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": "https://licensebuttons.net/l/by/4.0/88x31.png"
+          }
+        },
+        {
+          "title": "Attribution requirements",
+          "description": "<p>Suitable attribution should follow the attribution best practice guidelines as outlined&nbsp;<a href=\"https://wiki.creativecommons.org/wiki/Best_practices_for_attribution\" tabindex=\"0\">here</a>.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Content usage",
+          "description": "<p>The content, including text and structure is available for you to use, reuse and share (including for commercial purposes) subject to the conditions of the licence above.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Exclusions",
+          "description": "<p>This licence does not cover:</p><ul dir=\"ltr\"><li>Logos and trade marks such as those belonging to the Open Data Institute</li><li>Third party content (such as images)</li><li>Any other content as outlined under &#39;About&#39;</li></ul>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "Non-endorsement",
+          "description": "<p>This licence does not grant you any right to use the Information in a way that suggests any official status or that the Information Provider and/or Licensor endorse you or your use of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        },
+        {
+          "title": "No warranty",
+          "description": "<p>The Information is licensed &#39;as is&#39;. Neither the Open Data Institute nor the EDSA project are&nbsp;not liable for any errors or omissions in the Information and shall not be liable for any loss, injury or damage of any kind caused by its use. The Information Provider does not guarantee the continued supply of the Information.</p>",
+          "_graphic": {
+            "alt": "",
+            "src": ""
+          }
+        }
+      ]
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Define a data market.",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe a number of different markets and the role of licences.",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain a number of examples of the different business models and their effect on the data market. ",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe the connection between data markets and data science.",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy; Open Data Institute</p>",
+      "SL_text": "",
+      "_items": []
+    }
+  }
+]

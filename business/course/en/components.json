@@ -1,0 +1,1963 @@
+[
+  {
+    "_id": "5a4f992db6720cc118932818",
+    "_layout": "left",
+    "_parentId": "5a4f992db6720cc1189327f8",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "small": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/men-shaking-hands_1372807.htm#term=market&page=1&position=11\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a4f9a18b6720cc118932825",
+    "_layout": "right",
+    "_parentId": "5a4f992cb6720cc1189327f3",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">At its simplest, a&nbsp;data market can be thought of as a place to obtain data, much like a food market.</p><p dir=\"ltr\">With data being an intangible asset, it can be hard to put a price on data. A lot of data is free, some of it open,&nbsp;and&nbsp;some will&nbsp;cost money.</p><p dir=\"ltr\">Unlike food however, cost and use are two different things; all food you obtain you can do what you like with, the same it not true of data.&nbsp;Some data might be free, but not allow reuse, while other data could cost a small fee but come with all rights. Equally some data might be both free and open for you to use, reuse and share. It&nbsp;is important to understand the difference between cost and licensing in data.</p><p dir=\"ltr\">Explore some of the&nbsp;different combinations of cost and licensing in the market&nbsp;below.</p>",
+    "displayTitle": "Types of data market",
+    "title": "Types of data market",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a391fc3b6720cc11893279b",
+    "_layout": "right",
+    "_parentId": "5a391fc3b6720cc118932799",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a58be58460f330a3d21c869",
+    "_layout": "right",
+    "_parentId": "5a58be58460f330a3d21c868",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9c0eff6b8b4fc49834728e00a8aaff1666cecf40.jpeg",
+      "small": "course/en/assets/9c0eff6b8b4fc49834728e00a8aaff1666cecf40.jpeg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id\" target=\"_blank\">Benjaminec</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a37f039b6720cc118932749",
+    "_layout": "left",
+    "_parentId": "5a37efb4b6720cc118932748",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Many businesses&nbsp;use data science as part of their business model. To successfully exploit data science, organisations should understand how data is creating value for their business.</p><p dir=\"ltr\">In this module, we&#39;ll explore the following:</p><ul><li dir=\"ltr\">What a value proposition is</li><li dir=\"ltr\">The link between a value proposition, a business model and data science</li><li dir=\"ltr\">Different value propositions that support data science exploitation in other businesses</li></ul>",
+    "displayTitle": "Business models in data science",
+    "title": "Business models in data science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a37f3e5b6720cc11893274e",
+    "_layout": "right",
+    "_parentId": "5a37f3dab6720cc11893274d",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A value proposition outlines how a business is solving a problem for its users. You can think of a value proposition as the abstract or executive summary of the solution.</p><p>Without a strong value proposition, the organisation &ndash; whether a large corporation, a startup, a local authority or a charity &ndash; does not have justification to keep delivering its services&nbsp;and is unlikely to succeed. If a business solves a problem for its users and helps them to save money or time, there is a reason to charge for this product or service.</p><p>A value proposition is important as it is the logic upon which the rest of the business is based. If a business solves a problem that the users don&#39;t value in monetary terms, that business may need to seek alternative sources of revenue.</p>",
+    "displayTitle": "What is a value proposition?",
+    "title": "What is a value proposition?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a37f44bb6720cc118932754",
+    "_layout": "full",
+    "_parentId": "5a37f445b6720cc118932753",
+    "_type": "component",
+    "body": "<p>In addition to strengthening existing value propositions with data science, there are a number of other business models that have emerged to help others exploit data science.</p>",
+    "displayTitle": "Business models exploiting data science",
+    "title": "Business models exploiting data science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Providing data as a product ",
+        "body": "<p dir=\"ltr\">Data about a company&rsquo;s customers can be used In order to help companies identify new customer segments or relationships with customers. However, companies do not always possess this data themselves: this provides a market opportunity for providing data as a product.</p><p dir=\"ltr\">This business model is used by the market research company <a href=\"http://www.nielsen.com/uk/en.html\">Nielsen</a>. Nielsen collects data using audience panels and research, and provides this data to clients in formats based on their specifications. This provides revenue for the company that covers the cost of commissioning data collection and research.</p><p dir=\"ltr\">The purchasing company can then analyse the data using data science techniques to identify how to strengthen their value proposition.</p>",
+        "_graphic": {
+          "src": "course/en/assets/36e56d17c50a5fb72efc114e6bba641ed074159e.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/data-bits-computer-shadow-dark-vignette-231672367\" target=\"_blank\">Mclek</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Providing data as a product"
+      },
+      {
+        "title": "Data science as a service ",
+        "body": "<p dir=\"ltr\">Some companies may not have the capability to perform data science &lsquo;in-house&rsquo;. This provides an opportunity for other companies to provide data science as a service.</p><p dir=\"ltr\">In this model, companies develop algorithms or programmes that allow clients to use their data to produce insight. Clients may pay for access to this software directly, or for the help of experts to product information and insight that helps them make decisions.</p><p dir=\"ltr\">This model is used by the credit reference company <a href=\"https://www.experian.co.uk/\">Experian</a>, who keep information on people&rsquo;s credit histories. Experian provide <a href=\"http://www.experian.co.uk/analytics.html\">data analytics as a service</a> to other businesses, helping them interpret, model and use customer data in a way that helps businesses make more informed decisions.</p>",
+        "_graphic": {
+          "src": "course/en/assets/446193d101695ae351698f932c5b11433b5a7957.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-chart-and-bar-graph-669612/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Data science as a service"
+      },
+      {
+        "title": "Data science software as a service",
+        "body": "<p dir=\"ltr\">In a Software as a Service (SaaS) model, users pay for a subscription to access software. Such software comes with built-in data science capability that customers can exploit.</p><p dir=\"ltr\">This model is being used to exploit data science by companies like <a href=\"https://www.flexport.com/\">Flexport</a>. This company provides a software platform that makes it easier for freight companies to track their shipments. Flexport can use this data to build new features that make it simpler for customers to manage their shipments across the world, driving improvements in supply chains.</p><p dir=\"ltr\">Amazon is another major provider of data science software as a service in their AWS platform. The AWS platform now provides <a href=\"https://aws.amazon.com/machine-learning/\">machine learning as a service</a> that can be tailored to work with a huge variety of datasets to perform predictive analysis.</p>",
+        "_graphic": {
+          "src": "course/en/assets/227ec3ba18daa1824a914f2618601d4d647802b8.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Data science software as a service"
+      }
+    ]
+  },
+  {
+    "_id": "5a38daddb6720cc118932764",
+    "_layout": "left",
+    "_parentId": "5a37f66cb6720cc11893275e",
+    "_type": "component",
+    "body": "<p><strong>A value proposition outlines...</strong></p>",
+    "displayTitle": "What is a value proposition?",
+    "title": "Q: What is a value proposition?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "how a business will make money",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "how a business is solving a problem for its users",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "the amount of investment needed for a business ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A value proposition outlines how a business is solving a problem for its users.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A value proposition outlines how a business is solving a problem for its users</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a39197fb6720cc118932775",
+    "_layout": "right",
+    "_parentId": "5a3917a7b6720cc118932773",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A pitch is a short persuasive talk that clearly communicates the benefits of investing time and money in your business. It communicates the value of your business idea for your audiences and convinces them to get involved.</p><p dir=\"ltr\">Every startup will have to deliver a pitch at some point. This may be to persuade investors to give your business money, or encourage partners or co-founders to work with you. It is a request for your audience to trust you, and <a href=\"https://www.startups.co/articles/the-evolution-of-the-startup-pitch-from-napkin-to-traction-data\" target=\"_blank\">should demonstrate tangible evidence</a> of your current and future success.</p><p dir=\"ltr\">There are five components of a good pitch. Explore them below.&nbsp;</p>",
+    "displayTitle": "The five components of a perfect pitch ",
+    "title": "The five components of a perfect pitch ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "The problem or challenge you are trying to solve",
+        "body": "<p dir=\"ltr\">Your pitch should begin with the problem that you are trying to solve, and the audience that experiences this problem (your target market). If your audience do not understand or care about the problem you are trying to solve, they are unlikely to support you. &nbsp;&nbsp;</p><p dir=\"ltr\">The combination of a clear problem and a large market is likely to signal to your investors that your business or idea is a great investment opportunity.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Your proposed solution and value proposition",
+        "body": "<p dir=\"ltr\">You should explain to your audience how your business will solve this problem for your users - your value proposition. It is important to state the value proposition, as it is the logic on which the rest of the business is based.</p><p>With a data science startup, you can emphasise what new and innovative techniques that you are using to provide value for your customers and potential investors.</p><p dir=\"ltr\">Startups.co <a href=\"https://www.startups.co/articles/the-ultimate-cheat-sheet-for-your-startups-investor-pitch-deck\" target=\"_blank\">recommend phrasing your value proposition </a>during your pitch in the following format: &lsquo;We are doing X (solving a problem), for Y (a specific audience) by Z (in a nutshell, what are you? A platform, app, solution or tool)&rsquo;.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": " Your vision and business plan",
+        "body": "<p dir=\"ltr\">Clearly explaining your company&rsquo;s vision, and how you plan to achieve it through a business plan, is essential for convincing your audience to invest. Especially if you are a startup, investors are &lsquo;buying&rsquo; into your team and the return that you can provide on that investment.</p><p dir=\"ltr\">Whilst it is important to have a strong vision, your audience will be most interested in how you plan to achieve it: your business plan. This describes your business model, where you will get revenue from, any traction your business has received so far in the market, and the team you are working with.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Overcoming your competition",
+        "body": "<p dir=\"ltr\">Explain to your audience why your proposed solution is better than other solutions. For a startup, you should illustrate what makes your data science business better than other companies at solving your target market&rsquo;s problem. For an established business, you should concentrate on why your proposed data science solution is better than your company&rsquo;s current solution to the problem.</p><p dir=\"ltr\">Don&rsquo;t be tempted to skip over competitors in an attempt to make your business look unique. No competition may signal to some investors that it is not an attractive market, or that you have not adequately researched it.</p><p dir=\"ltr\">Data science companies have an inherent advantage here. <a href=\"#/id/5a170441d78e42cc3a9cbfc5\" target=\"_blank\">One of the benefits</a> of exploiting data science is being able to collect and analyse data in new ways that are more innovative than traditional competition.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Your ask ",
+        "body": "<p>Your pitch should end with an &lsquo;ask&rsquo; for your audience.</p><p dir=\"ltr\">For data science startups, this ask will probably be an amount of funding from your investor in exchange for equity (a stake in your company). If you are asking for a certain amount of money, explain what it will be used for and what the impact will be - it could be investing in R&amp;D to increase your product offering, or funding sales and marketing to increase your revenue.</p><p>For people pitching a data science idea in an established business, this ask will be different. This may be asking your audience to commit to a date for a follow up meeting, or asking them to read and respond to a written document about your idea. &nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a391fbab6720cc118932797",
+    "_layout": "left",
+    "_parentId": "5a391fbab6720cc118932795",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/596613cb6cd3790647b72fa6cd0d821704787e37.jpg",
+      "small": "course/en/assets/596613cb6cd3790647b72fa6cd0d821704787e37.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/crowd-funding-concept_1311415.htm#term=investor&page=1\" target=\"_blank\">iconicbestiary / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a391fdbb6720cc11893279c",
+    "_layout": "left",
+    "_parentId": "5a391fc3b6720cc118932799",
+    "_type": "component",
+    "body": "<p><strong>What are the five components of a perfect pitch?&nbsp;</strong></p>",
+    "displayTitle": "Building a perfect pitch ",
+    "title": "Q: Building a perfect pitch ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose five answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "the problem you are solving",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "details about pricing structures",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "your proposed solution/value proposition",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "an ask",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "how you will overcome your competition",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "the maths for your algorithms ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "internal hiring decisions",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "your vision and business plan",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 5,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The five components of a perfect pitch are:&nbsp;The problem or challenge you are trying to solve, your proposed solution/value proposition, your vision and business plan, how you will overcome&nbsp;your competition and an ask.</p>",
+      "_incorrect": {
+        "final": "<p><strong>That&#39;s right!</strong></p><p>The five components of a perfect pitch are:&nbsp;The problem or challenge you are trying to solve, your proposed solution/value proposition, your vision and business plan, how you will overcome&nbsp;your competition and an ask.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a37f417b6720cc118932752",
+    "_layout": "right",
+    "_parentId": "5a37f403b6720cc118932750",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "small": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a38e072b6720cc11893276b",
+    "_layout": "right",
+    "_parentId": "5a38e06db6720cc11893276a",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>The business model canvas has the value proposition at its heart. Match the technique to the area of the canvas where data science can help.</strong></p>",
+    "displayTitle": "Identifying data science business models",
+    "title": "Q: Identifying data science business models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Audience behaviour data can help reach new markets, drive down costs, improve supply chain and cut costs",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Inventory analysis can help reach new markets, drive down costs and improve the supply chain ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": " Live logistics location data can help reach new markets, drive down costs and improve the supply chain ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Live logistics location data can help companies reach new markets,&nbsp;drive down costs and improve the supply chain.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Live logistics location data can help companies reach new markets,&nbsp;drive down costs and improve the supply chain.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a38e076b6720cc11893276c",
+    "_layout": "left",
+    "_parentId": "5a38e06db6720cc11893276a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "small": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a392ad4b6720cc1189327b1",
+    "_layout": "left",
+    "_parentId": "5a392acdb6720cc1189327b0",
+    "_type": "component",
+    "body": "<p>Many businesses are now using data science as part of their business model. To successfully exploit data science, organisations should understand how data is creating value for their business.</p><p>A value proposition outlines how a business is solving a problem for its users.&nbsp;Successful businesses must also think about other&nbsp;key elements of their&nbsp;business model&nbsp;that explain how a company operates, makes profit and generates value. These may include their target audiences, their key activities and what resources they can use.</p><p dir=\"ltr\">Different business models are being used to help other companies exploit data science. Common business models&nbsp;include providing data as a product, data science as a service&nbsp;and software as a service.&nbsp;</p><p dir=\"ltr\">Considering your business&#39;s value proposition and business model are essential parts of building a business that successfully&nbsp;exploits data science.</p><p>Once you have decided on your value proposition and business model, you must understand how to pitch a data science startup or idea. In the next module we explore how to deliver a perfect pitch for a data science startup or idea.</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/id/5a391539b6720cc11893276d\">Next module</a></p><p dir=\"ltr\"><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a39200bb6720cc1189327a3",
+    "_layout": "left",
+    "_parentId": "5a391f8bb6720cc118932791",
+    "_type": "component",
+    "body": "<p><strong>What might attending a pitch competition help you do?&nbsp;</strong></p>",
+    "displayTitle": "Enhancing your pitch",
+    "title": "Q: Enhancing your pitch",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Know your audience",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Work the room ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Be more confident in pitching",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Help in pitching to media outlets",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Attending a pitch competition will help you become more confident in delivering your pitch.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Attending a pitch competition will help you become more confident in delivering your pitch.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a391fffb6720cc1189327a2",
+    "_layout": "right",
+    "_parentId": "5a391fbab6720cc118932795",
+    "_type": "component",
+    "body": "<p><strong>Which of the following is an investor likely to be interested in during your pitch?</strong></p>",
+    "displayTitle": "Pitching to different audiences",
+    "title": "Q: Pitching to different audiences",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose three answers, then click 'submit' ",
+    "_items": [
+      {
+        "text": "why you are building a business ",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "advantages for partners",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "the story in your business",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "what you are building (the product)",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "how you will build your business",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>During your pitch, the investor is likely to be interested in why you are building a business (the problem you are solving), what you are building (the product) and how you will build it (the business plan). This has been called the &#39;why, &#39;what&#39; and &#39;how&#39;.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>During your pitch, the investor is likely to be interested in why you are building a business (the problem you are solving), what you are building (the product) and how you will build it (the business plan). This has been called the &#39;why, &#39;what&#39; and &#39;how&#39;.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a39177db6720cc118932772",
+    "_layout": "right",
+    "_parentId": "5a391539b6720cc11893276f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a391779b6720cc118932771",
+    "_layout": "left",
+    "_parentId": "5a391539b6720cc11893276f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Once you have decided on your value proposition and business model, you must understand how to pitch a data science startup or idea.</p><p>Having a good pitch is essential for gaining interest from organisation leaders,investors and potential partners. This will help you establish and grow your data science business.</p><p dir=\"ltr\">In this module, you will learn how to:</p><ul dir=\"ltr\"><li>Explain the components of a pitch</li><li>Identify different audiences for your pitch</li><li>List tips to enhance your pitch</li></ul>",
+    "displayTitle": "Pitching a data science startup or idea",
+    "title": "Pitching a data science startup or idea",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a391f58b6720cc11893278c",
+    "_layout": "left",
+    "_parentId": "5a391f51b6720cc11893278b",
+    "_type": "component",
+    "body": "<p>Pitching is an essential skill&nbsp;for advancing your data science idea or business. Are you ready to pitch?</p>",
+    "displayTitle": "Are you ready to pitch?",
+    "title": "Are you ready to pitch?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a392ac7b6720cc1189327ad",
+    "_layout": "left",
+    "_parentId": "5a392ab9b6720cc1189327ac",
+    "_type": "component",
+    "body": "<p><strong>Credit reference company Experian help other businesses interpret, model and use customer data. What kind of business model does the company use?</strong></p>",
+    "displayTitle": "Explaining data science business models ",
+    "title": "Q: Explaining data science business models ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "Data science software as a service",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Data science as a service",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Providing data as a product",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": true,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Experian provide data science&nbsp;as a service - they help other businesses interpret, model and use&nbsp;customer data in a way that helps businesses make more informed decisions.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Experian provide data science&nbsp;as a service - they help other businesses interpret, model and use&nbsp;customer data in a way that helps businesses make more informed decisions.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a392acbb6720cc1189327ae",
+    "_layout": "right",
+    "_parentId": "5a392ab9b6720cc1189327ac",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/5f3f35f2b1fa1ec9a63bfcd87116652f83c53cfa.jpeg",
+      "small": "course/en/assets/5f3f35f2b1fa1ec9a63bfcd87116652f83c53cfa.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/person-holding-chart-and-bar-graph-669612/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a37f03cb6720cc11893274a",
+    "_layout": "right",
+    "_parentId": "5a37efb4b6720cc118932748",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a37f703b6720cc118932760",
+    "_layout": "left",
+    "_parentId": "5a37f68cb6720cc11893275f",
+    "_type": "component",
+    "body": "<p>Many businesses are integrating data science into their business models. Are you ready to join them?</p>",
+    "displayTitle": "Are you ready to integrate data science into your business model?",
+    "title": "Are you ready to integrate data science into your business model?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a38dae2b6720cc118932765",
+    "_layout": "right",
+    "_parentId": "5a37f66cb6720cc11893275e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "small": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a392ad7b6720cc1189327b2",
+    "_layout": "right",
+    "_parentId": "5a392acdb6720cc1189327b0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a37f3eab6720cc11893274f",
+    "_layout": "left",
+    "_parentId": "5a37f3dab6720cc11893274d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "small": "course/en/assets/3488880e08a0f82ccdb3dfdc68791182b5919310.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a392468b6720cc1189327a9",
+    "_layout": "right",
+    "_parentId": "5a39244db6720cc1189327a7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc1189327fa",
+    "_layout": "right",
+    "_parentId": "5a4f992cb6720cc1189327f1",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc1189327ff",
+    "_layout": "left",
+    "_parentId": "5a4f992cb6720cc1189327f2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "small": "course/en/assets/229edd0734232dc0da70786429aa9c34cab96d14.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/men-shaking-hands_1372807.htm#term=market&page=1&position=11\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc118932807",
+    "_layout": "full",
+    "_parentId": "5a4f992cb6720cc1189327f4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "An open data market",
+    "title": "An open data market",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>In an open data market, once you have obtained the data you are free to use, reuse, modify and redistribute it. Open data allows anyone to use the data to&nbsp;build commercial applications, apply data science to find&nbsp;new insights, or&nbsp;combine the data with other data and redistribute it.&nbsp;</p><p>Significantly, open data does not have to be free to obtain: you may have to purchase the right to have an open licence for the data obtained.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/912d65e89f30dcfe70557c3c8a832ecec578f0a0.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "An open data market"
+      },
+      {
+        "title": "Example: Transport for London",
+        "body": "<p dir=\"ltr\">Around the world, governments are leading open data markets to increase transparency and help stimulate the economy using public data.&nbsp;Many of the datasets in an open data market are provided for free.For instance, as a result of participating in an open data market,&nbsp;<a href=\"https://tfl.gov.uk/info-for/open-data-users/\" target=\"_blank\">Transport for London</a> (TfL) have seen&nbsp;<a href=\"https://blog.tfl.gov.uk/2017/10/13/new-study-quantifies-value-of-open-data-to-london/\" target=\"_blank\">&pound;130m of benefit per year</a>&nbsp;to the city of London.&nbsp;By working with data science&nbsp;companies who use&nbsp;their open data, TfL has been able to improve its own services&nbsp;with minimal investment.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d1515088c0ab7db985d357d45a6b307a92fb58cd.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/alper/10482805973\" target=\"_blank\">Alper Çuğun</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Examples"
+      }
+    ]
+  },
+  {
+    "_id": "5a4f992db6720cc11893280f",
+    "_layout": "left",
+    "_parentId": "5a4f992cb6720cc1189327f6",
+    "_type": "component",
+    "body": "<p><strong>What is an open data market?</strong></p>",
+    "displayTitle": "What is an open data market?",
+    "title": "Q: What is an open data market?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "One where data is available for free",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "One where the data available can be used, re-used, modified and shared freely",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "One containing only government data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>In an open data market, once you have obtained the data you are free to use, reuse, modify and redistribute it.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>In an open data market, once you have obtained the data you are free to use, reuse, modify and redistribute it.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc118932813",
+    "_layout": "left",
+    "_parentId": "5a4f992cb6720cc1189327f7",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4404a3a8e0a794ef5c9d9ee19e98400c70eac9b2.png",
+      "small": "course/en/assets/4404a3a8e0a794ef5c9d9ee19e98400c70eac9b2.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc118932816",
+    "_layout": "right",
+    "_parentId": "5a4f992cb6720cc1189327f7",
+    "_type": "component",
+    "body": "<p><strong>Thomson Reuters&nbsp;offers access to their service under which models?</strong></p>",
+    "displayTitle": "Hybrid models",
+    "title": "Q: Hybrid models",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select all that apply and click submit",
+    "_items": [
+      {
+        "text": "Open data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Free data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Commercial data",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Thomson Reuters&nbsp;offers a number of tiered options for access and use of their data through the&nbsp;<a href=\"http://permid.org/1-8589934333\">PermID</a>&nbsp;service. In this service, some datasets&nbsp;are&nbsp;available for <strong>free</strong> under an <strong>open</strong> licence, while the rest of the data is only available via a&nbsp;restrictive licence or <strong>commercial</strong> plan..</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Thomson Reuters&nbsp;offers a number of tiered options for access and use of their data through the&nbsp;<a href=\"http://permid.org/1-8589934333\">PermID</a>&nbsp;service. In this service, some datasets&nbsp;are&nbsp;available for <strong>free</strong> under an <strong>open</strong> licence, while the rest of the data is only available via a&nbsp;restrictive licence or <strong>commercial</strong> plan..</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc118932817",
+    "_layout": "right",
+    "_parentId": "5a4f992db6720cc1189327f8",
+    "_type": "component",
+    "body": "<p><strong>What is a data market?</strong></p>",
+    "displayTitle": "Q: What is a data market?",
+    "title": "Q: What is a data market?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Choose your answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "A place to purchase data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "The concept of obtaining and exchanging data online",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "A company on the web",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "An auction website for data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>In a data market, individuals and businesses can purchase, trade, exchange or otherwise obtain data of value to the consumer. Typically this is now done online.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>In a data market, individuals and businesses can purchase, trade, exchange or otherwise obtain data of value to the consumer. Typically this is now done online.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc11893281c",
+    "_layout": "right",
+    "_parentId": "5a4f992db6720cc1189327f9",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a4f9af0b6720cc118932830",
+    "_layout": "full",
+    "_parentId": "5a4f9af0b6720cc11893282f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "A free data market",
+    "title": "A free data market",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>In a free data market, access is provided to data without a direct cost to anyone. However this does not mean that the data will be open for you to use for any purpose.</p><p>For example, there may be a non-commercial licence applied to the data, meaning you cannot use it to make profit in a company. There may be other fees and costs of services that are required in order to use the data.</p><p>There may also be implications for businesses who enter into a free data market,&nbsp;such as the requirement to share your own data within the free market. This may not be possible for business who hold commercially sensitive data.</p>",
+        "_graphic": {
+          "src": "course/en/assets/bc405547ea32356032d490290a510a41c2455047.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-119236978\" target=\"_blank\">spaxiax</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Definition"
+      },
+      {
+        "title": "Example: Amazon",
+        "body": "<p dir=\"ltr\">In a free data market, access is provided without direct cost, although there may be indirect costs involved.</p><p dir=\"ltr\">A good example is <a href=\"https://aws.amazon.com/public-datasets/\" target=\"_blank\">Amazon&rsquo;s public datasets</a>. This catalog lists a number of datasets that can be freely accessed under a number of different terms and conditions. Datasets such as <a href=\"https://aws.amazon.com/public-data-sets/common-crawl/\" target=\"_blank\">Common Crawl</a>, <a href=\"https://aws.amazon.com/datasets/google-books-ngrams/\" target=\"_blank\">Google Books Ngrams</a> and <a href=\"http://aws.amazon.com/public-data-sets/spacenet/\" target=\"_blank\">SpaceNet</a> have enabled the rapid development of better machine learning algorithms and allowed for the&nbsp;application of other data science techniques. Amazon Web Services (AWS) also offers services around these datasets to help users extract value from them. For instance, the company&nbsp;offers a compute&nbsp;capability and pre-built <a href=\"https://aws.amazon.com/machine-learning/\" target=\"_blank\">machine learning capabilities</a>&nbsp;which mean users are&nbsp;able to quickly apply data science techniques to a wide variety of datasets with the click of a button.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c802c3982eb53b3e97450e2cfb635de6ac12c33b.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.riverbed.com/image/fpo/solutions/solutions_aws_chalk_talk_carousel_bg.jpg\" target=\"_blank\">Amazon</a> <span class='assetLicence'>[All rights reserved]</span>"
+        },
+        "strapline": "Example"
+      }
+    ]
+  },
+  {
+    "_id": "5a4f9b9cb6720cc118932839",
+    "_layout": "full",
+    "_parentId": "5a4f9b9cb6720cc118932838",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "A commercial data market",
+    "title": "A commercial data market",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>The commercial data market is one where data is traded between two parties under individual commercial licenses. These markets&nbsp;often involve large fees or subscriptions for continued access to data or some other trade that is individually negotiated. Each commercial agreement comes with different terms and limitations on the use of the data. Such terms and limitations are&nbsp;often applied to protect existing business models and revenue streams.</p>",
+        "_graphic": {
+          "src": "course/en/assets/f84f4e376b456fe29023669ec13f5bf262941ca7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/index.php?goto=74&idfoto=1246288&term=commercial%20shop\" target=\"_blank\">topntp26 / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Definition"
+      },
+      {
+        "title": "Example",
+        "body": "<p dir=\"ltr\">A commercial data market is used for obtaining specific datasets under specific conditions. This model is most commonly&nbsp;in Business to Business (B2B) transactions, and are particularly common in marketing, such as the&nbsp;<a href=\"https://www.experian.co.uk/business-express/marketing-data-lists/b2b-prospector-pricing.html\" target=\"_blank\">Marketing Data Lists</a> from Experian.&nbsp;</p><p dir=\"ltr\">Another current example (Jan 2018) is the sale of <a href=\"https://www.ordnancesurvey.co.uk/shop/os-maps-online.html\" target=\"_blank\">Ordnance Survey maps data in different resolutions</a>. &nbsp;Although the government has <a href=\"https://www.grough.co.uk/magazine/2017/11/28/government-pledges-80m-in-bid-to-open-up-ordnance-survey-mapping-to-small-firms\" target=\"_blank\">pledged money</a> to make them free and open. Has the model changed yet?</p>",
+        "_graphic": {
+          "src": "course/en/assets/2fe57077a9b28018eac39034dad2e66bf4e34f76.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Example"
+      }
+    ]
+  },
+  {
+    "_id": "5a37f413b6720cc118932751",
+    "_layout": "left",
+    "_parentId": "5a37f403b6720cc118932750",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">The value proposition of a business is central to its business model. This is why tools like the <a href=\"https://strategyzer.com/canvas/business-model-canvas\">business model canvas</a> present it in the middle.</p><p dir=\"ltr\">The value proposition is linked to three other key elements of a company&rsquo;s business model: customers, suppliers and costs. Consequently, data science can play a key role in strengthening all three areas of a company&rsquo;s business model. &nbsp;</p><p dir=\"ltr\">The value proposition for the application of data science may help the company reach new markets, drive down costs, or improve the supply chain.</p><p dir=\"ltr\">For example, companies have started using data science to identify new customer segments. A digital marketer with expertise in data science has become a <a href=\"http://www.keywebmetrics.com/2015/06/data-science-for-digital-marketing-part-1/\">highly valued</a>&nbsp;role.</p><p dir=\"ltr\">Data science can help identify efficiency savings in a supply chain&nbsp;to increase profitability. Using predictive analysis&nbsp;can&nbsp;<a href=\"https://www.datasciencecentral.com/profiles/blogs/predictive-analytics-in-the-supply-chain\">keep the supply chain at an optimum level</a>, for example.&nbsp;</p><p dir=\"ltr\">Data science helped&nbsp;<a href=\"http://www.dataversity.net/predictive-analytics-route-planning-algorithm-ups-followed-long-path-success/\">optimise UPS delivery routes</a>, saving up to $400m a year, cutting greenhouse emission by 100,000 metric tons while still delivering the same level of service.</p><p>These examples show how exploiting data science can help expose new value propositions and business models for companies. &nbsp;</p>",
+    "displayTitle": "What is the link between a value proposition and a business model? ",
+    "title": "What is the link between a value proposition and a business model? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a391bc0b6720cc118932780",
+    "_layout": "full",
+    "_parentId": "5a391ba7b6720cc11893277f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">A well-structured pitch is useless if it is not delivered to the right audience. Different audiences, such as investors, partners, potential customers and media outlets, will be interested in different aspects of your idea or business.</p><p dir=\"ltr\">Where possible, you should research and understand your audience before you deliver your pitch. This will ensure you don&rsquo;t waste time pitching to the wrong people.</p>",
+    "displayTitle": "How to identify different audiences and tailor your pitch",
+    "title": "How to identify different audiences and tailor your pitch",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Investors",
+        "body": "<p dir=\"ltr\">The most common audience for a startup pitch is investors. These are individuals or organisations&nbsp;who&nbsp;provide a business with capital (money)&nbsp;in return for a stake in the company. This is also known as equity.&nbsp;Investors want to know why you are building a business (the problem), what you are building (the product), and how you will build it (the business plan). This is what investor Boris Wertz <a href=\"https://www.businessnewsdaily.com/7774-pitch-business-multiple-audiences.html\" target=\"_blank\">describes as the &lsquo;why&rsquo;, &lsquo;what&rsquo; and &lsquo;how&rsquo;.</a></p><p dir=\"ltr\">There are different types of investors, and it is important to tailor your pitch to your type of investor.&nbsp;Recently launched startups looking for <a href=\"https://en.wikipedia.org/wiki/Seed_money\" target=\"_blank\">&lsquo;seed&rsquo; funding</a> may encounter angel investors, wealthy individuals who typically invest their own funds in a business. Later on, startups are likely to pitch to venture capitalists, who manage the money of others in a professional fund. Startups pitching to either type of investor should understand what the individual or company has recently invested in (their &lsquo;portfolio&rsquo;) and their areas of interest.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2a7a37981e7d0a859756c8a985c2db3f11c2191.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-vector/crowd-funding-concept_1311415.htm#term=investor&page=1&position=3\" target=\"_blank\">iconicbestiary / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Investors"
+      },
+      {
+        "title": "Partners",
+        "body": "<p dir=\"ltr\">Within your data science startup or established business you may be looking to build partnerships. The right partnerships can help your organisation extend its reach or implement new ideas smoothly.</p><p dir=\"ltr\">A pitch to partners should concentrate on the value that your business will provide for them. In particular, you should communicate how your startup or idea fits with the interests or goals of your potential partner.</p>",
+        "_graphic": {
+          "src": "course/en/assets/5d6bf692261b5d77ea6a9856974558658e6170e9.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Partners"
+      },
+      {
+        "title": "Potential customers",
+        "body": "<p dir=\"ltr\">Another important audience for your pitch are potential customers. These individuals are likely to be members of your target market that you hope will buy your product or services. Consequently, it is essential that the problem you are solving resonates with your audience and that you attract interest in your product.</p><p dir=\"ltr\">A successful pitch to potential customers will understand and focus on the specific problem they face, and how your business will solve it. For instance, if your customers are worried about finding a quicker solution, your pitch should not focus on why your solution is cheaper. Likewise, they will be less interested in the financials of your business than investors, so you should plan accordingly.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Potential customers"
+      },
+      {
+        "title": "Media outlets",
+        "body": "<p dir=\"ltr\">For data science startups, pitching to media outlets can be a good way of publicising your business without hiring an external public relations company. This is a good way to attract readers as potential customers. Data science startups may pitch to a media outlet in the tech and data science space, or in a specific sector such as agriculture, entertainment or education.</p><p>Reporters and journalists are likely to be interested in finding the &lsquo;story&rsquo; in your business. This may be the background of the founder or team, how data science is used in new ways to solve a problem, or the impact that the product may have on their readers. Consequently, a good pitch will present that story to them in a way that is also useful to your business. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/eccf2427aa0ac445191dcf082e37032c66d25a45.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Media outlets"
+      },
+      {
+        "title": "Senior stakeholders within your company",
+        "body": "<p>In established businesses, you may need to pitch your data science idea&nbsp;to senior stakeholders&nbsp;within your business. These are&nbsp;people who make decisions about the company&#39;s strategy and direction, and can implement a greater data science focus.</p><p>This audience will be interested in learning why they should implement your idea. Consequently, you should&nbsp;communicate its value for the company, ideally&nbsp;in terms of revenue and growth.&nbsp;&nbsp;Alternatively, you may choose to focus on why the company needs to change its business model or perspective to keep up with competition.</p><p>Many businesses are now looking internally for new data science ideas by holding events. For instance, in 2017 insurance company&nbsp;Lloyd&#39;s&nbsp;held a <a href=\"https://www.lloyds.com/the-market/communications/events/uk/2017-datathon\">Datathon </a>to find new ideas and business models from their data. These events will often have opportunities to pitch at the end.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/silhouette-of-an-executive-holding-a-clipboard_864239.htm#term=boardroom&page=1&position=2\" target=\"_blank\">Pressfoto / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Senior stakeholders within your company"
+      }
+    ]
+  },
+  {
+    "_id": "5a391e84b6720cc118932787",
+    "_layout": "full",
+    "_parentId": "5a391e67b6720cc118932786",
+    "_type": "component",
+    "body": "<p>Once you have built the five components of your pitch and selected your audience, you can also add a few final touches to refine your pitch.</p>",
+    "displayTitle": "Top tips for enhancing your pitch",
+    "title": "Top tips for enhancing your pitch",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Tell a story",
+        "body": "<p dir=\"ltr\">It is easier to follow a presentation when it is presented in a way that interests your audience. Presenting your pitch by telling a story will help the audience process new information during your presentation. Stories also help us to remember content, so your audience&nbsp;will be better&nbsp;able to describe your business to others after the pitch.</p><p dir=\"ltr\">Learn more about <a href=\"http://medium.com/the-mission/the-ultimate-cheat-sheet-for-your-startups-investor-pitch-deck-602f7ac97ace\" target=\"_blank\">structuring your pitch like a story</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/cea53ba894f73eac454fb2f7cde74ce401909d9b.png",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Tell a story"
+      },
+      {
+        "title": "Demonstrate your product or service",
+        "body": "<p>If there is enough time, try to incorporate a&nbsp;demonstration of your product or service into your pitch. This could be through a film, screenshots or mock up.</p><p>As well as providing an opportunity to demonstrate the user experience of your product, demonstrations can help your audience visualise and better understand your product or service. This will particularly appeal to those who learn information by seeing how it is implemented in practice. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Demonstrate your product or service"
+      },
+      {
+        "title": "Practise your pitch ",
+        "body": "<p dir=\"ltr\">Pitches often include an aspect of public speaking, which makes many people nervous. Practising your pitch will help you deliver your pitch confidently, helping to sell your skills as well as your product and service.</p><p>There are many opportunities to practise your pitch before important meetings. One way is to attend pitch competitions, where contestants present their business idea to an audience to be judged. Attending and participating in <a href=\"http://medium.com/the-mission/the-ultimate-cheat-sheet-for-your-startups-investor-pitch-deck-602f7ac97ace\" target=\"_blank\">pitch competitions</a> are a good opportunity to practise your pitch, as well as learning about&nbsp;the work of potential competitors and partners.&nbsp;</p><p>As mentioned earlier, many businesses are also holding internal competitions to source new insight around business models.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/afcc5254da400555f864929d1d463d9a766ccfde.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/confident-young-man-making-presentation-to-team_999234.htm#term=practice&page=1&position=2\" target=\"_blank\">Katemangostar / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Practise your pitch "
+      }
+    ]
+  },
+  {
+    "_id": "5a4f99ddb6720cc118932824",
+    "_layout": "right",
+    "_parentId": "5a4f992cb6720cc1189327f2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In a data market, individuals and businesses can purchase, trade, exchange or otherwise obtain data.&nbsp;The amount of data that is generated today means that there is almost certainly someone who has data that might help you unlock a new business opportunity.&nbsp;</p><p dir=\"ltr\">The abundance of data on the web challenges traditional marketplace models. Data is not limited and&nbsp;unlimited copies can be created without detracting from the quality of the original. Thus it is the services around the data that are of value in the market currently.</p><p dir=\"ltr\">This shift&nbsp;can be seen in the music industry. As the sector has become more&nbsp;digital, music is now being streamed or downloaded for a negligible fee. This means that businesses in the sector have needed to adopt&nbsp;new business models to create value for their customers.</p>",
+    "displayTitle": "What is a data market?",
+    "title": "What is a data market?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a54d963b6720cc11893289b",
+    "_layout": "left",
+    "_parentId": "5a54d914b6720cc11893289a",
+    "_type": "component",
+    "body": "<p>Many companies are getting involved in the data marketplace in order to exploit data science. Are you ready to join them?&nbsp;</p>",
+    "displayTitle": "Are you ready to join the data market?",
+    "title": "Are you ready to join the data market?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a37f708b6720cc118932761",
+    "_layout": "right",
+    "_parentId": "5a37f68cb6720cc11893275f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a391f5bb6720cc11893278d",
+    "_layout": "right",
+    "_parentId": "5a391f51b6720cc11893278b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a54d966b6720cc11893289c",
+    "_layout": "right",
+    "_parentId": "5a54d914b6720cc11893289a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc1189327fd",
+    "_layout": "left",
+    "_parentId": "5a4f992cb6720cc1189327f1",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data is moving from being scarce and difficult to process to being abundant and easy to use. But harnessing its value for economic and social benefit &ndash; in ways that support innovation and deliver social justice &ndash; is hard. Companies are finding news ways to create value from data and the market is evolving to match the changing landscape.&nbsp;In this module, we will look at some of the markets surrounding data and how these relate to new opportunities and business models.</p><p dir=\"ltr\">In this module, we will explore</p><ul dir=\"ltr\"><li>What a data market is</li><li>The connection between data markets and data science</li><li>Types of markets and examples of businesses&nbsp;</li><li>Different business models and their effect on the data market</li></ul>",
+    "displayTitle": "Data markets and licensing",
+    "title": "Data markets and licensing",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a4f9bdab6720cc118932841",
+    "_layout": "full",
+    "_parentId": "5a4f9bd9b6720cc118932840",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Hybrid data markets",
+    "title": "Hybrid data markets",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Definition",
+        "body": "<p>In a hybrid data market,&nbsp;companies adopt a mixture of&nbsp;methods to marketing their data,&nbsp;in order to gain a better position in the market. A&nbsp;company may choose to offer out a limited set of data as free and/or open data,&nbsp;while maintaining a commercial model around the full access to the data catalogue.&nbsp;In other scenarios,&nbsp;companies may offer&nbsp;paid open data,&nbsp;with different restrictions depending on the fee paid. Lastly,&nbsp;companies may choose to offer the data completely free and open, as the value gained from&nbsp;usage is greater than the income from selling the data directly.</p>",
+        "_graphic": {
+          "src": "course/en/assets/6efb789ebf8f003112edddcf90bf50a2ac5fe167.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/electric-vehicle-parking_1243143.htm#term=hybrid&page=1&position=9\" target=\"_blank\">evening_tao / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Definition"
+      },
+      {
+        "title": "Example 1: Thomson Reuters",
+        "body": "<p dir=\"ltr\">In a hybrid data market,&nbsp;a number of the different data market&nbsp;models are applied simultaneously.</p><p dir=\"ltr\">For instance, Thomson Reuters (TR) is another example of a hybrid data provider through their&nbsp;<a href=\"http://permid.org/1-8589934333\">PermID</a>&nbsp;service. In this service, some datasets&nbsp;are&nbsp;available for <strong>free</strong> under an <strong>open</strong> licence, while the rest of the data is only available via a&nbsp;restrictive licence or <strong>commercial</strong> plan.</p><p dir=\"ltr\">By using this approach, Thomson Reuters have enabled an ecosystem to grow&nbsp;around the&nbsp;free and open data, whilst protecting&nbsp;commercial agreements around the paid-for data. This is important for businesses&nbsp;operating in a multiple B2B environment. This helps TR to build an ecosystem around their data that offers&nbsp;some free and open data for new customers.</p>",
+        "_graphic": {
+          "src": "course/en/assets/ab15e0c363ac026838ddab75794fe95337324f9c.png",
+          "alt": "",
+          "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">Open Data Institute</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Example"
+      },
+      {
+        "title": "Example 2: Open Corporates",
+        "body": "<p dir=\"ltr\">Another company participating in the hybrid (open)&nbsp;data market is&nbsp;OpenCorporates.</p><p dir=\"ltr\">OpenCorporates takes a <a href=\"https://opencorporates.com/info/licence#api_use\" target=\"_blank\">different approach</a>&nbsp;by distinguishing between&nbsp;different forms of&nbsp;licensing and use. They&nbsp;provide open data for free to anyone willing to share&nbsp;back their data with the service. However, they also charge for&nbsp;an open license that drops this&nbsp;requirement to share,&nbsp;leaving only the requirement to attribute. Whilst both&nbsp;licenses are open,&nbsp;the less restrictive one comes at a cost to the user, providing a source of revenue for OpenCorporates.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/kjarrett/10644544846\" target=\"_blank\">Kevin Jarrett</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Open Corporates"
+      }
+    ]
+  },
+  {
+    "_id": "5a58be58460f330a3d21c86c",
+    "_layout": "left",
+    "_parentId": "5a58be58460f330a3d21c868",
+    "_type": "component",
+    "body": "<p>Data science is about unlocking new opportunities and insight from data. As not all data will be available internally, knowing about&nbsp;data market&nbsp;is critical to ensure that all the right data is gathered for use in data science.</p><p>As part of your data science work you might also be required to play a role in the market&nbsp;in contributing back (as dictated by share-alike licenses). Alternatively it might be possible through your work to partake yourself in a number of marketplaces and become a market influencer.</p><p>Is their&nbsp;marketplace for the insights your business gets from data?&nbsp;</p>",
+    "displayTitle": "Data markets and data science",
+    "title": "Data markets and data science",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a392464b6720cc1189327a8",
+    "_layout": "left",
+    "_parentId": "5a39244db6720cc1189327a7",
+    "_type": "component",
+    "body": "<p>Having a good pitch is essential for gaining interest from organisation leaders, investors and potential partners. This will help you establish and grow your data science business.</p><p>A pitch is a short persuasive talk that clearly communicates the benefits of investing time and money in your business and&nbsp;convinces your audience&nbsp;to get involved. A perfect pitch has five components.&nbsp;</p><p>However, different audiences, such as investors, partners, potential customers and media outlets, will be interested in different aspects of your idea or business, and you must tailor your pitch to meet these expectations.&nbsp;</p><p>Once you have built the five components of your pitch and selected your audience, refine your pitch by ensuring you tell a story, demonstrate your product in action and that you are confident delivering it. This will ensure you deliver the perfect pitch that helps you exploit data science.&nbsp;</p><p>In the next module, we will look at some of the markets surrounding data and how these relate to new opportunities and business models. This will help you identify where to take your pitch.&nbsp;</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/id/5a37efb3b6720cc118932746\">Previous module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/id/5a4f992cb6720cc1189327ec\">Next module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/\" target=\"_blank\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a4f992db6720cc11893281b",
+    "_layout": "left",
+    "_parentId": "5a4f992db6720cc1189327f9",
+    "_type": "component",
+    "body": "<p>A data market is a place to obtain data.&nbsp;This data may either form the input to a piece of data science work or be the output of it.&nbsp;</p><p>There are many types of marketplace now emerging that challenge the traditional purely commercial mode of accessing and sharing data. Disruption is being driven by data moving from being scarce and difficult to process to being abundant and easy to use.the&nbsp;</p><p>Traditional commercial models of selling data are taking a back seat to new hybrid models or those which provide data science as a service (as looked at in the previous module). Take a look at the other modules in this series to discover how to create a value proposition for data science within a business and how to pitch this to gain support.</p><p>In this course, you have learned about the different business models that businesses are using to exploit data science, how to pitch data science to different audiences, and how&nbsp;various data markets relate to new opportunities and business models. These are essential elements of exploiting data science in business.&nbsp;</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/id/5a391539b6720cc11893276d\">Previous module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/\" target=\"_blank\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a391983b6720cc118932776",
+    "_layout": "left",
+    "_parentId": "5a3917a7b6720cc118932773",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a391fa9b6720cc118932793",
+    "_layout": "right",
+    "_parentId": "5a391f8bb6720cc118932791",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d2a765fec252e8acb0e981d46f7f8aeb0cd08358.jpg",
+      "small": "course/en/assets/d2a765fec252e8acb0e981d46f7f8aeb0cd08358.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-photo/confident-young-man-making-presentation-to-team_999234.htm#term=practice&page=1&position=2\" target=\"_blank\">Katemangostar / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a54d62ab6720cc118932893",
+    "_layout": "left",
+    "_parentId": "5a4f992cb6720cc1189327f3",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/6dc39159d451c47c423613e0277cfedaf69e5431.jpg",
+      "small": "course/en/assets/6dc39159d451c47c423613e0277cfedaf69e5431.jpg",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/market-icons_794647.htm#term=market&page=1&position=14\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a4f992db6720cc118932810",
+    "_layout": "right",
+    "_parentId": "5a4f992cb6720cc1189327f6",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/302476bbbf32f025619696b24bd1b6a9719ae5a9.jpeg",
+      "small": "course/en/assets/302476bbbf32f025619696b24bd1b6a9719ae5a9.jpeg",
+      "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]

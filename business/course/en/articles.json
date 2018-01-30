@@ -1,0 +1,101 @@
+[
+  {
+    "_id": "5a37efb3b6720cc118932747",
+    "_parentId": "5a37efb3b6720cc118932746",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a391539b6720cc11893276e",
+    "_parentId": "5a391539b6720cc11893276d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a4f992cb6720cc1189327ee",
+    "_parentId": "5a4f992cb6720cc1189327ec",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a37f66cb6720cc11893275d",
+    "_parentId": "5a37efb3b6720cc118932746",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a391f8bb6720cc118932790",
+    "_parentId": "5a391539b6720cc11893276d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a4f992cb6720cc1189327ef",
+    "_parentId": "5a4f992cb6720cc1189327ec",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a39244db6720cc1189327a6",
+    "_parentId": "5a391539b6720cc11893276d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a392acdb6720cc1189327af",
+    "_parentId": "5a37efb3b6720cc118932746",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a4f992cb6720cc1189327f0",
+    "_parentId": "5a4f992cb6720cc1189327ec",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  }
+]
