@@ -1,0 +1,154 @@
+[
+  {
+    "_id": "5a5323a3b6720cc118932850",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/1eef9340d96e57e84343777b61a3c23d138d02d7.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Many businesses are using data science to inform decisions and&nbsp;collaborate.&nbsp;Successfully embedding data science within a business requires incorporating data science within your business&#39;&nbsp;strategy.</p><p dir=\"ltr\">This module will help you plan how your business will map, describe, share and use data science to implement its vision. It explores why integrating data science with your&nbsp;strategy is important for a business, important components&nbsp;of embedding&nbsp;data science in a strategy,&nbsp;and how to&nbsp;embed data science&nbsp;within a business.</p>",
+    "displayTitle": "Embedding data science within a business",
+    "title": "Embedding data science within a business",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain the importance of embedding data science within a business' strategy",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe the components of embedding data science strategy within a business' strategy",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain how to embed data science within a business",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy;&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a></p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5a5323d6b6720cc118932853",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/29a4e2ce1350b6282536f1eab10988184d4e8c33.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">Startups form an important part of nearly every sector ecosystem.</p><p>Startups that successfully exploit data science&nbsp;understand where to acquire funding and support. They can&nbsp;navigate the ecosystem around them, understanding and interacting with the relevant people and organisations.</p><p>In this module, we&#39;ll explore the different stages of startups, the role of different funding sources and the additional support available so that startups can establish themselves&nbsp;within an ecosystem.&nbsp;</p>",
+    "displayTitle": "Exploring the startup ecosystem in Europe",
+    "title": "Exploring the startup ecosystem in Europe",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain different stages of startups within an ecosystem",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain the role of different funding sources in a startup ecosystem",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain additional support available in a startup ecosystem",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy;&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a></p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  },
+  {
+    "_id": "5a5c8d14460f330a3d21c86d",
+    "_graphic": {
+      "alt": "",
+      "src": "course/en/assets/194749d6a3d955ccf1327dff670d11d82f1e5892.jpg"
+    },
+    "_parentId": "course",
+    "_type": "page",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_lockedBy": [],
+    "duration": "",
+    "linkText": "View",
+    "_classes": "",
+    "body": "<p dir=\"ltr\">In addition to exploiting data science within a business&rsquo;s ecosystem, many businesses are now using data science techniques to collaborate, compete and disrupt entire sectors. In this module, we look at what a sector ecosystem is, common types of actors in a sector ecosystem and the differences between a closed, shared and open sector ecosystem.</p><ul dir=\"ltr\"></ul>",
+    "displayTitle": "Exploiting data science within sectors",
+    "title": "Exploiting data science within sectors",
+    "_pageLevelProgress": {
+      "_isEnabled": true,
+      "_showPageCompletion": true
+    },
+    "_skillsFramework": {
+      "_skills": [
+        {
+          "outcome": "Explain what a sector ecosystem is",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "List common actors in a sector ecosystem5",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Explain the difference between a closed, shared and open sector ecosystem",
+          "credits": 5,
+          "level": "strategist"
+        },
+        {
+          "outcome": "Describe possible futures for sector ecosystems",
+          "credits": 5,
+          "level": "strategist"
+        }
+      ]
+    },
+    "_aboutPage": {
+      "aboutCredit": "<p>&copy;&nbsp;<a href=\"https://theodi.org/\" tabindex=\"0\" target=\"_blank\">Open Data Institute</a></p>",
+      "SL_text": "",
+      "_items": []
+    },
+    "_ODILicence": {
+      "_items": []
+    }
+  }
+]

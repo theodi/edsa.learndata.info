@@ -1,0 +1,90 @@
+[
+  {
+    "_id": "5a5323a3b6720cc118932851",
+    "_parentId": "5a5323a3b6720cc118932850",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a5323d7b6720cc118932854",
+    "_parentId": "5a5323d6b6720cc118932853",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a5c8d14460f330a3d21c86e",
+    "_parentId": "5a5c8d14460f330a3d21c86d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a548806b6720cc118932871",
+    "_parentId": "5a5323a3b6720cc118932850",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a58a839460f330a3d21c85f",
+    "_parentId": "5a5323d6b6720cc118932853",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a5cbc8e460f330a3d21c899",
+    "_parentId": "5a5c8d14460f330a3d21c86d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a548e70b6720cc11893287f",
+    "_parentId": "5a5323a3b6720cc118932850",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  },
+  {
+    "_id": "5a5cbcb1460f330a3d21c8a3",
+    "_parentId": "5a5c8d14460f330a3d21c86d",
+    "_type": "article",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "body": "",
+    "displayTitle": " ",
+    "title": " "
+  }
+]

@@ -1,0 +1,2046 @@
+[
+  {
+    "_id": "5a53259bb6720cc118932856",
+    "_layout": "left",
+    "_parentId": "5a5323a3b6720cc118932852",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Many&nbsp;businesses are exploiting data science to inform decisions and form new collaborations. To maximise the value that data science brings to&nbsp;a business and to introduce sustainable change, it is crucial&nbsp;to embed data science within all parts of&nbsp;the business that form your business&#39;s ecosystem.&nbsp;</p><p dir=\"ltr\">Successfully embedding data science within a business requires a data science strategy to guide your activities. This is a plan for how your business will map, describe, share and use data science to implement its vision.&nbsp;</p><p>In this module, we&rsquo;ll explore the following:</p><ul dir=\"ltr\"><li>Why embedding data science within your business&#39; strategy is important</li><li>The components of embedding data science within your&nbsp;strategy</li><li>How to embed data science within a business</li></ul>",
+    "displayTitle": "Embedding data science within a business",
+    "title": "Embedding data science within a business",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5325a0b6720cc118932857",
+    "_layout": "right",
+    "_parentId": "5a5323a3b6720cc118932852",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a532666b6720cc11893285d",
+    "_layout": "right",
+    "_parentId": "5a5325fab6720cc118932859",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Embedding data science within your business&#39; strategy is important as it helps plan out where and how data science will be embedded to add value for the organisation.</p><p dir=\"ltr\">There are many ways in which data science can add value for the ecosystem of a business. Embedding data science within your organisation&#39;s wider&nbsp;strategy indicates its importance and helps&nbsp;everyone in the business understand, navigate and embed data science in their activities, as well as planning for how a business will keep up with and get ahead of the competition in their sector. Adding it to your wider&nbsp;strategy will also help the business deliver meaningful (rather than piecemeal)&nbsp;change. Learn more about each of these reasons below.</p>",
+    "displayTitle": "Why is embedding data science within your business' strategy important?",
+    "title": "Why is embedding data science within your business' strategy important?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Keeping up with and getting ahead of the crowd",
+        "body": "<p>A plan for using data science is important for planning how a business will keep up with the competition or become a thought leader in its sector. As the use of data science becomes more widespread, implementing a considered strategy can help businesses use data science more effectively and gain a competitive advantage in the market.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Delivering meaningful change",
+        "body": "<p>A plan for using data science is also a way of delivering change in a comprehensive way. In contrast to a piecemeal approach, implementing data science as part of your wider organisation&#39;s strategy&nbsp;is more likely to result in successful, sustainable change.</p><p dir=\"ltr\">Many businesses have used data science&nbsp;to grow their business, increase profit, maximise efficiency and increase their return on investment with data science. For instance, global agricultural business <a href=\"https://www.syngenta.co.uk/\">Syngenta</a> used a strategy<a href=\"https://theodi.org/open-enterprise-big-business-case-study-syngenta\"> focused on open data </a>to help implement and monitor the success of its <a href=\"http://www.syngenta.com/global/corporate/en/goodgrowthplan/home/Pages/homepage.aspx\">Good Growth Plan</a>. &nbsp;&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Getting buy-in from key stakeholders",
+        "body": "<p>Explaining how data science fits into your organisation&#39;s strategy&nbsp;helps everyone in the business, from leadership to junior staff, and other important stakeholders like funders,&nbsp;understand why the business is using data science and the goals it will help the business achieve.</p><p>This is particularly important in large organisations, where it is harder to communicate directly with each individual. A communal strategy means that everyone in the ecosystem of the business can understand what data science is and how it will affect their activities.<br /><br />Beyond the business itself, it may also be important to get support from funders, shareholders and customers for the change.<br /><br />A strategy that lays out plans for using data science clearly is&nbsp;likely to increase support for the change.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a53266eb6720cc11893285e",
+    "_layout": "left",
+    "_parentId": "5a5325fab6720cc118932859",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "small": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a547f9db6720cc118932869",
+    "_layout": "full",
+    "_parentId": "5a547f88b6720cc118932868",
+    "_type": "component",
+    "body": "<p>Embedding data science&nbsp;within your business is a good way of ensuring that change is sustainable. There are four&nbsp;ways to embed data science&nbsp;in your business.</p>",
+    "displayTitle": "How can we embed a data science strategy within a business?",
+    "title": "How can we embed a data science strategy within a business?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Demonstrate value and impact",
+        "body": "<p>An important part of embedding data science&nbsp;is demonstrating its value and impact. This will help to maintain&nbsp;support for implementing data science as part of your&nbsp;strategy over time.<br /><br />This can be done through measuring your&nbsp;success through key performance indicators (KPIs), goals and targets. When formulating goals and targets, it is important that these are measurable and realistic. If goals are too ambitious, it is likely that support for&nbsp;data science&nbsp;will falter. On the other hand, successfully hitting targets will help you in demonstrating the impact of data science for your business. Try using the <a href=\"https://en.wikipedia.org/wiki/SMART_criteria\">SMART goal-setting </a>technique.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/78352663956efe2064b35eba64e9f259440571d1.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://pixabay.com/en/mountaineer-climb-climbing-sport-2100050/\" target=\"_blank\">cocoparisienne</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Demonstrate value and impact"
+      },
+      {
+        "title": "Secure support from key stakeholders",
+        "body": "<p>Embedding data science&nbsp;will require the cooperation of many people both internally and externally. People are unlikely to change the way they work or interact with your business&nbsp;in the long-term if they disagree with or do not understand why data science is being embedded in the business. Consequently, working with key stakeholders within your business&rsquo;s ecosystem to secure&nbsp;their support is an important factor in ensuring your strategy succeeds.<br /><br />One way of securing support is by educating them about the benefits of data science for your business. This could take the style of a business &lsquo;pitch&rsquo;. For more information see the associated module on pitching data science.</p>",
+        "_graphic": {
+          "src": "course/en/assets/7dc322f66f88a2c72a1b38247ba913885a8569cf.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/silhouette-of-an-executive-holding-a-clipboard_864239.htm#term=boardroom&page=1&position=2\" target=\"_blank\">Pressfoto / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Securing support from key stakeholders"
+      },
+      {
+        "title": " Openly communicate your strategy and invite feedback ",
+        "body": "<p>People are more likely to support your plans for using&nbsp;data science &nbsp;if they have an opportunity to feed into them. Hearing from diverse areas of your business, including users and other external stakeholders if appropriate, that might use data is also a good way to make your organisation&#39;s strategy, including data science,&nbsp;more relevant and useful to all aspects of your business.</p><p>Try and provide opportunities for employees from all levels of your business to provide feedback&nbsp;and help improve it, through consultation and information sessions. &nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/912d65e89f30dcfe70557c3c8a832ecec578f0a0.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/light-blue-lamp-kitchen-109998/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": " Openly communicate your strategy and invite feedback "
+      },
+      {
+        "title": "Build data science expertise",
+        "body": "<p dir=\"ltr\">An important part of embedding data science&nbsp;within a business is building expertise within your organisation&#39;s ecosystem.</p><p dir=\"ltr\">One way of doing this is building expertise in-house. You may choose to hire a data scientist, or provide training to equip individuals with data science expertise.</p><p>However, your business may not have the time or resources to build data science expertise in-house. In this case, organisations can help embed data science&nbsp;by engaging in <a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a170441d78e42cc3a9cbfc4/#/id/5a2528f0b6720cc118932022\">open innovation</a>. For instance, built environment consultancy <a href=\"https://www.arup.com/\">Arup</a> helped embed their data science strategy by <a href=\"https://theodi.org/open-enterprise-big-business-case-study-arup\">working with data science startups</a> to bring new ideas into their organisation.</p>",
+        "_graphic": {
+          "src": "course/en/assets/227ec3ba18daa1824a914f2618601d4d647802b8.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/coding-computer-data-depth-of-field-577585/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Build data science expertise"
+      }
+    ]
+  },
+  {
+    "_id": "5a5487feb6720cc11893286f",
+    "_layout": "left",
+    "_parentId": "5a5487eab6720cc11893286e",
+    "_type": "component",
+    "body": "<p>Many businesses are implementing strategies to exploit data science within the ecosystem of their business. Are you ready to join them? &nbsp;</p>",
+    "displayTitle": "Are you ready to embed data science within your business?",
+    "title": "Are you ready to embed data science within your business?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a548802b6720cc118932870",
+    "_layout": "right",
+    "_parentId": "5a5487eab6720cc11893286e",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a548814b6720cc118932873",
+    "_layout": "left",
+    "_parentId": "5a548806b6720cc118932872",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>Select the 3 reasons why embedding data science within your business&#39;&nbsp;strategy is important.</strong></p>",
+    "displayTitle": "The importance of strategy",
+    "title": "Q: The importance of strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select three answers, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Keeping up with and getting ahead of the crowd",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Impressing your bosses",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Delivering meaningful change",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Helping you copy your competitors",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Getting buy-in from the team",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 3,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A data science strategy is important for keeping up and getting ahead of the crowd, delivering meaningful change and getting buy-in from the team.&nbsp;</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A data science strategy is important for keeping up and getting ahead of the crowd, delivering meaningful change and getting buy-in from the team.&nbsp;</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a548817b6720cc118932874",
+    "_layout": "right",
+    "_parentId": "5a548806b6720cc118932872",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "small": "course/en/assets/4d0e90f8a701b90a49898fd147c75a0149ca472f.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic.mhtml?id=149924576&src=lb-35924366\" target=\"_blank\">Sergey Nivens</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a54881fb6720cc118932876",
+    "_layout": "right",
+    "_parentId": "5a548819b6720cc118932875",
+    "_type": "component",
+    "body": "<p><strong>Why are plans for sharing data, knowledge and lessons an important component of embedding data science within your&nbsp;strategy?&nbsp;</strong></p>",
+    "displayTitle": "Embedding data science within your strategy",
+    "title": "Q: Components of embedding data science within your strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "They help you to stop sharing data",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "They help break down silos and avoid duplication",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "They help you figure out how data should be structured",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Plans for sharing data, knowledge and lessons are&nbsp;an important component of your data science strategy as they help&nbsp;break down silos and avoid&nbsp;duplication,&nbsp;which can save time and resources associated with data.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Plans for sharing data, knowledge and lessons are&nbsp;an important component of your data science strategy as they help&nbsp;break down silos and avoid&nbsp;duplication,&nbsp;which can save time and resources associated with data.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a548823b6720cc118932877",
+    "_layout": "left",
+    "_parentId": "5a548819b6720cc118932875",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "small": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a548829b6720cc118932879",
+    "_layout": "right",
+    "_parentId": "5a548825b6720cc118932878",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "small": "course/en/assets/eb873132546e2efef06e9305e364cbeb58ad7126.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/mountaineer-climb-climbing-sport-2100050/\" target=\"_blank\">cocoparisienne</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a54882db6720cc11893287a",
+    "_layout": "left",
+    "_parentId": "5a548825b6720cc118932878",
+    "_type": "component",
+    "body": "<p dir=\"ltr\"><strong>What technique did built environment consultancy&nbsp;Arup use to embed data science&nbsp;within their business?</strong></p>",
+    "displayTitle": "Embedding data strategy",
+    "title": "Q: Embedding data strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Demonstrating value and impact",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Working with key stakeholders to gain their support",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Openly communicate their strategy and inviting feedback",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Building expertise and engaging in open innovation",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Arup embedded their data science strategy in their business by building expertise and engaging in open innovation. The company started&nbsp;<a href=\"https://theodi.org/open-enterprise-big-business-case-study-arup\" tabindex=\"0\">working with data science startups</a>&nbsp;to bring new ideas into their organisation.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Arup embedded their data science strategy in their business by building expertise and engaging in open innovation. The company started&nbsp;<a href=\"https://theodi.org/open-enterprise-big-business-case-study-arup\" tabindex=\"0\">working with data science startups</a>&nbsp;to bring new ideas into their organisation.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a54886db6720cc11893287b",
+    "_layout": "left",
+    "_parentId": "5a5323d7b6720cc118932855",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Startups are an important part of nearly every sector ecosystem.&nbsp;</p><p>New businesses need to understand where to acquire funding and support in order to survive and grow. Successful data science startups are able to navigate the ecosystem around them, understanding and interacting with the relevant people and organisations.</p><p dir=\"ltr\">In this module you will learn how to:</p><ul dir=\"ltr\"><li>Explain different stages of startups within an ecosystem</li><li>Explain the role of different funding sources in a startup ecosystem</li><li>Explain additional support available in a startup ecosystem</li></ul>",
+    "displayTitle": "Exploring the startup ecosystem in Europe",
+    "title": "Exploring the startup ecosystem in Europe",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a548870b6720cc11893287c",
+    "_layout": "right",
+    "_parentId": "5a5323d7b6720cc118932855",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a548ea5b6720cc118932881",
+    "_layout": "left",
+    "_parentId": "5a548e71b6720cc118932880",
+    "_type": "component",
+    "body": "<p>Many different businesses are exploiting data science to inform decisions and form new collaborations. An important part of introducing sustainable change is embedding a data science strategy within a business&#39;s ecosystem.&nbsp;A data science strategy is important as it&nbsp;helps plan out where and how data science will be embedded to add value for the organisation.<br /><br />Data science strategies are important for keeping up with and getting ahead of the crowd, delivering meaningful change and getting buy-in from the team. There are five key components: a clear vision, a map of your resources, a plan for maintaining, governing and expanding your data science resources, plans for sharing data and knowledge and plans for evaluation and feedback.&nbsp;</p><p>There are four ways to embed a strategy in your business.&nbsp;Embedding a data science strategy helps ensure that change is sustainable, and your business obtains maximum value from exploiting data science.&nbsp;</p><p>Ecosystems can also be made up of more than one business. In the next module, we&#39;ll explore the&nbsp;startup ecosystem.&nbsp;</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/id/5a5323d6b6720cc118932853\">Next module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/\">Main menu&nbsp;</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a548ea9b6720cc118932882",
+    "_layout": "right",
+    "_parentId": "5a548e71b6720cc118932880",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a54ef67b6720cc1189328b3",
+    "_layout": "right",
+    "_parentId": "5a54ef29b6720cc1189328b2",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Within any startup ecosystem, there are many different stages of startups. Some are just starting, whereas others have raised thousands in capital to fund their business.</p><p>Every business&rsquo; journey is different. However, there are roughly five main stages a startup will go through on its journey: idea, pre-seed, seed, growth (or &lsquo;early stage&rsquo;) and late-stage. Learn more about each of them below.</p>",
+    "displayTitle": "What are the different stages of a startup’s journey?",
+    "title": "What are the different stages of a startup’s journey?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Idea",
+        "body": "<p>At the idea stage, your startup does not yet exist as a business: it is an idea in your head. At this stage, you are trying to understand the problem your target audience faces and how your company will solve that problem (your business&rsquo;s value proposition). During the idea stage, companies are looking for validation of their value proposition to understand whether it is a viable business. For more about understanding your company&rsquo;s value proposition, see <a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a37efb1b6720cc118932744/#/id/5a37efb3b6720cc118932746\">this module</a>.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Pre-seed",
+        "body": "<p dir=\"ltr\">At the pre-seed stage, your startup has a value proposition that will solve a present issue for customers, but has not created the service or product. This stage is about learning more about your customers and creating a &lsquo;minimum viable product&rsquo; - &nbsp;a product that demonstrates your ideas to gain feedback from early users.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Seed ",
+        "body": "<p dir=\"ltr\">At the seed stage, your startup is up and running. You have a number of customers and are generating revenue using your business model, but you may not yet have a model for how to repeat those sales or grow your company. Companies in this stage are focused on scaling their operations to become a bigger business.</p><p dir=\"ltr\">Examples of seed stage startups include UK startup <a href=\"http://news.shack15.com/london-ai-startup-pace-raises-2-5m-seed/\">Pace</a>, which applies data science to the hospitality sector and<a href=\"http://hal24k.com/\"> HAL24K</a>, which uses data science techniques to increase the efficiency of managing cities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Growth/early-stage",
+        "body": "<p dir=\"ltr\">At the growth stage, your startup is of a considerable size. You have fully executed your business plan, and have a strategy for growing your business. With all these models in place, In this stage startups are planning for exponential growth. This is also called &lsquo;Series A&rsquo;, based on the number of fundraising rounds a startup has completed to raise capital (money).<br /><br />Examples of growth stage startups include <a href=\"https://www.ravelin.com/\">Ravelin</a>, a startup which uses machine learning algorithms to detect fraud, and <a href=\"https://www.checkrecipient.com/\">CheckRecipient</a>, which prevents sensitive emails being sent to the wrong person.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Later stages",
+        "body": "<p dir=\"ltr\">This is the final stages of a startup. At this stage, startups may be looking to expand their business to new markets or locations. A startup may go through a number of fundraising rounds in later stages to do this. These rounds are labelled alphabetically (Series B, C, D etc).<br /><br />Examples of late stage startups include French startup <a href=\"https://www.dataiku.com/\">Dataiku</a>, a platform encouraging data scientists and analysts to work together on improving data, and German data science platform <a href=\"https://www.contiamo.com/\">Contiamo</a>.<br /><br />Large startups with more than &pound;1 million in turnover are called &lsquo;unicorns&rsquo;. These include companies like Airbnb and Uber. &nbsp;<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a54ef6bb6720cc1189328b4",
+    "_layout": "left",
+    "_parentId": "5a54ef29b6720cc1189328b2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a54f01bb6720cc1189328b6",
+    "_layout": "full",
+    "_parentId": "5a54f010b6720cc1189328b5",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Funders are an incredibly important part of the startup ecosystem. There are many different funders in a startup ecosystem. Startups in different stages of maturity, such as idea, pre-seed and seed, will interact with different kinds of funding sources in order to grow their business. These funding sources often overlap, especially in the seed, growth and later stages of a startup.</p><p dir=\"ltr\">It should be noted that a lot of information available online concerns the US startup ecosystem. Funding sources, styles and cultures differ considerably in Europe. As a result, startups looking for funding in Europe should learn about the funding culture in their location.</p>",
+    "displayTitle": "What is the role of different funding sources in the ecosystem?",
+    "title": "What is the role of different funding sources in the ecosystem?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Idea: Family and friends",
+        "body": "<p>For many startups at the idea stage, the first source of funding from the ecosystem is their personal connections: family and friends. The entrepreneur or founder may provide them with a share in the startup (equity) or a promise to repay the loan in future.<br /><br />Many startups receive funding from family and friends as these individuals wish to support the entrepreneur in pursuing their idea. It is also difficult to secure funding from outside sources, such as a bank, for a company which has not yet begun generating revenue, as it is unclear whether an idea stage startup will be able to provide a return on this investment.<br /><br />There is comparatively little capital at this stage, so this stage of funding is also known as &lsquo;bootstrapping&rsquo;.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/055c40cb6d0b6f170819d9e4238168607d50b8ee.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com/index.php?goto=74&idfoto=1051206&term=brothers\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Idea: family and friends"
+      },
+      {
+        "title": "Pre-seed: Crowdfunding",
+        "body": "<p>Crowdfunding is the <a href=\"https://towardsdatascience.com/predicting-the-success-of-kickstarter-campaigns-3f4a976419b9\">&lsquo;practice of funding a project or venture by raising monetary contributions from many people</a>&rsquo;, often through sites such as Kickstarter or Crowdcube. A crowdfunded startup will often offer the investor an incentive for their donation, such as a free trial of the product or occasionally equity in the company.<br /><br />Crowdfunding may be an attractive option for startups with a popular idea that are struggling to source more traditional sources of funding, such as from investors.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2a7a37981e7d0a859756c8a985c2db3f11c2191.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-vector/crowd-funding-concept_1311415.htm#term=investor&page=1&position=3\" target=\"_blank\">iconicbestiary / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Pre-seed: Crowdfunding"
+      },
+      {
+        "title": "Pre-seed and seed: Government grant schemes",
+        "body": "<p>Many governments across Europe provide support for people to start and scale their businesses. This money is often awarded in the form of a non-repayable grant to help with specific aspects or projects of a businesses.<br /><br />These schemes are useful for startups who wish to gain capital without having to give away shares in their business. However, they are very competitive and may have very specific criteria.<br /><br />Examples of these schemes include <a href=\"https://www.seedcapital.dk/\">SEED Capital</a> in Denmark and funding from Sweden&rsquo;s innovation agency <a href=\"https://www.vinnova.se/en/e/innovativa-startups/\">Vinnova</a>. Find a scheme in your European country with the European Commission&rsquo;s tool <a href=\"https://europa.eu/youreurope/business/funding-grants/access-to-finance/index_en.htm#france_en_access-to-finance\">here</a>.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/3322e42179091db7b57216394b426b7977cfc1c6.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/treasury-building_1044934.htm#term=federal bank&page=1&position=6\" target=\"_blank\">kstudio / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Pre-seed and seed: Government grant schemes"
+      },
+      {
+        "title": "Seed: Accelerators and incubators",
+        "body": "<p dir=\"ltr\">A popular form of funding for seed stage startups is startup accelerators and incubators. These are programmes designed to help start and grow startup businesses through mentorship and support.&nbsp;<br /><br />Many accelerators offer some form of funding or financial support, although this may be limited. In the UK, innovation foundation Nesta <a href=\"https://www.nesta.org.uk/blog/incubators-and-accelerators-updated-directory-uk\">found that the financial support</a> provided by accelerators equates to around &pound;33 million of startup investment per year. For instance, London-based Winton Labs <a href=\"https://www.oxfordshirelep.com/content/winton-labs-data-science-accelerator\">provide a &pound;5,000-&pound;15,000 stipend</a> for teams participating in their accelerator programme, which funds businesses around data and data science. Startup accelerators like <a href=\"http://metavallon.org/the-accelerator/\">The Accelerator</a> in Greece and<a href=\"https://startupwiseguys.com/\"> Startup Wise Guys</a> in Estonia also provide small amounts of funding to startup participants in data science and technology and fintech respectively.<br /><br />Incubators on the other hand, are typically rent or fee based and focus more on the physical space for startups, rather than support services. However,&nbsp;some&nbsp;startup incubators do&nbsp;provide a small amount of seed funding. For instance, venture incubator <a href=\"http://garage.md/en\">Garage</a> in Moldova provides seed investment for internet and technology-based startups, whilst innovation incubator <a href=\"https://fongit.ch/\">Fongit</a> provides funding and support for Swiss startups.</p>",
+        "_graphic": {
+          "src": "course/en/assets/098046310f1d2ad9e371db2a1abae89342b755a2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Designed by Eightonesix</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Seed: Accelerators and incubators"
+      },
+      {
+        "title": "Seed and growth: Angel investors",
+        "body": "<p>Many startups at seed stage opt for funding from an angel investor. Angel investors are wealthy individuals who provide a startup with capital in return for equity or repayable debt. They typically invest their own money in the startup, as well as providing mentorship and networking opportunities. Depending on location, they may join together with other angels to form angel networks.<br /><br />The amount of seed funding a startup can gain from angel investors will differ from country to country. Although there are some European-wide networks, such as the <a href=\"http://www.eban.org/\" target=\"_blank\">European Business Angel Network</a>,&nbsp;angels tend to invest in startups from their local city, region or country. This is because they often have local networks and experience, but also due to local investment incentives (such as the <a href=\"https://www.gov.uk/guidance/venture-capital-schemes-apply-to-use-the-seed-enterprise-investment-scheme\">Seed Enterprise Investment Scheme</a> in the UK). You can find a list of European angel investors <a href=\"https://angel.co/europe/investors\">here</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/29a4e2ce1350b6282536f1eab10988184d4e8c33.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-vector/business-incubator-concept_1311479.htm#term=incubator&page=1&position=1\" target=\"_blank\">iconicbestiary / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": " Seed and growth: Angel investors"
+      },
+      {
+        "title": "Later stages: Venture capitalist funds ",
+        "body": "<p dir=\"ltr\">The main form of funding for later stage startups is venture capital (VC) funds. These are typically private funds which contain pooled money from investors, often including high net worth individuals, foundations, public pensions funds and corporate pension funds. This money is invested in a portfolio of startup companies, usually in a specific sector (&lsquo;vertical&rsquo;), in return for equity. VC funds provide funding so that a startup can grow and eventually have a successful &lsquo;exit&rsquo;, by being bought by another company or selling shares to the public for the first time (an initial public offering).<br /><br />There are many examples of VC funds who invest in European startups, including Lakestar, Accel Partners, Northzone and Index Ventures. There are also several VC funds who focus on startups using new data science and technology approaches, such as<a href=\"https://www.gv.com/\"> Google Ventures</a>,<a href=\"https://github.com/Bloomberg-Beta/Manual\"> Bloomberg Beta</a> and<a href=\"https://www.dcvc.com/\"> Data Collective</a>. Some VC funds are funded by government, such as <a href=\"http://www.vf.dk/\">Vaekstfonden</a> in Denmark.</p>",
+        "_graphic": {
+          "src": "course/en/assets/dc93e79e0c19836ebb0e0fbcff2d6dcc53d7d7d8.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-vector/finance-concept-with-money-clipboard-and-clock_1304295.htm#term=money bag&page=1&position=28\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Later stages: Venture capitalist funds "
+      }
+    ]
+  },
+  {
+    "_id": "5a54f23fb6720cc1189328be",
+    "_layout": "full",
+    "_parentId": "5a54f229b6720cc1189328bd",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Not all support is financial. Besides funders, there are many types of support in the startup ecosystem for new businesses. These include accelerators and incubators, mentorship programmes, co-working spaces, courses, meetups, and competitions&nbsp;and events.</p><p dir=\"ltr\">Several attempts to <a href=\"http://www.startupeuropemap.eu/map/\">map these types of support</a> have demonstrated that these services are often provided in certain <a href=\"http://www.startuphubs.eu/\">&lsquo;hubs&rsquo;</a> across Europe. These are often <a href=\"https://digitalcityindex.eu/\">cities</a>: London, Barcelona, Stockholm and Berlin have many actors providing different types of additional support within the ecosystem. If you wish to explore the additional support ecosystem in your area, follow the links provided.</p>",
+    "displayTitle": "What additional types of support are available in a startup ecosystem?",
+    "title": "What additional types of support are available in a startup ecosystem?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Accelerators and incubators",
+        "body": "<p>Accelerators and incubators are common types of startup support. Accelerators are provided over a fixed period of time for a cohort of startups that offer mentorship and training designed to help grow startups. They often end in a pitch event or &lsquo;demo day&rsquo; that allows startups to interact with potential investors. Incubators also provide&nbsp;mentoring and training, but generally host startups for much longer, &nbsp;from a couple of months to a couple of years.<br /><br />There are many examples of accelerators and incubators across the European startup ecosystem. They include <a href=\"https://www.hubraum.com/\">hub:raum</a> in Germany, <a href=\"http://www.seedrocket.com/\">SeedRocket</a> in Spain, <a href=\"https://www.rockstart.com/accelerator/\">Rockstar</a>t in the Netherlands and <a href=\"https://www.thefamily.co/\">The Family</a> in France. There are also European-wide organisations, such as <a href=\"https://seedcamp.com/\">SeedCamp</a> and <a href=\"https://pioneers.io/#/\">Pioneers.io</a>.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/098046310f1d2ad9e371db2a1abae89342b755a2.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Designed by Eightonesix</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Accelerators and incubators"
+      },
+      {
+        "title": "Mentors",
+        "body": "<p>Mentors are another important part of the startup ecosystem. A mentor, or business advisor, is a&nbsp;experienced person who provides you with help and advice on growing your business. They may be someone with sector expertise or a more experienced entrepreneur. A mentor can provide a new perspective and advice on important decisions and help you achieve your startup&rsquo;s goals.</p><p><br />You may be able to find informal mentors within your personal network, or approach an investor to mentor you. They are also provided as part of many accelerator or incubator programmes. &nbsp;If you wish to set up a more formal relationship, there are programmes and organisations which may help you find them. Startups.co.uk recommends 6 mentoring organisations for startups in the UK <a href=\"https://startups.co.uk/6-mentoring-organisations-to-help-young-entrepreneurs-get-started/\">here</a>.</p>",
+        "_graphic": {
+          "src": "course/en/assets/1fc73255e55ba04b56c12fcf0dda29d60db46b4d.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Mentors"
+      },
+      {
+        "title": "Coworking spaces",
+        "body": "<p>Coworking spaces are offices which provide desk space and offices for hire by anyone. They are designed to provide a cost-effective solution and network for startups, freelancers and entrepreneurs to work alongside others and build a community. Working in a coworking space may provide a new startup with opportunities to network and seek additional support from peers.<br /><br />There are hundreds of coworking spaces available for startups across Europe. Examples include <a href=\"http://connect-network.com/en/home/\">Connect</a> in Bratislava, Slovakia, <a href=\"https://www.factoryforty.be/\">Factory Forty</a> in Brussels, Belgium, <a href=\"https://www.startmiup.it/\">StartMiUp</a> in Milan, Italy and <a href=\"http://ideaplace.pl/en/\">IdeaPlace</a> in Warsaw, Poland.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/ecc29cb1588c4f76a0bcf5e2f706110c960c328a.jpg",
+          "alt": "",
+          "attribution": ""
+        },
+        "strapline": "Coworking spaces"
+      },
+      {
+        "title": "Training courses, workshops and seminars",
+        "body": "<p>Courses, workshops and seminars are another form of support for startups within an ecosystem. These provide training to support startups in overcoming common issues or providing key skills, and may also provide an opportunity to network.<br /><br />Businesses like Startup Academy in the UK offer business training for startups around topics such as social media marketing. Several universities also offer online resources for training, including the <a href=\"http://podcasts.ox.ac.uk/series/building-business-moving-your-product-market\">University of Oxford</a> and the <a href=\"https://www.futurelearn.com/courses/starting-a-business-1\">University of Leeds</a> in the UK.<br />&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/afcc5254da400555f864929d1d463d9a766ccfde.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.freepik.com/free-photo/confident-young-man-making-presentation-to-team_999234.htm#term=practice&page=1&position=2\" target=\"_blank\">Katemangostar / Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Training courses, workshops and seminars"
+      },
+      {
+        "title": "Meetups, competitions and events",
+        "body": "<p dir=\"ltr\">Finally, there are a range of meetups, competitions and events that may act as a support network for startups. These provide an opportunity to meet other entrepreneurs and businesses, pitch your startup and solve common startup problems.<br /><br />Cities are often a good place to find these events and informal meetups. Websites like <a href=\"https://www.meetup.com/\">meetup.com</a> and <a href=\"http://www.eu-startups.com/2017/03/25-of-the-most-exciting-events-for-startups-in-europe/\">EU-startups </a>may be helpful for finding these events in your area.</p>",
+        "_graphic": {
+          "src": "course/en/assets/62a33c5dfe53778be8a7f1d1eb64ea9a1d72267d.jpeg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.pexels.com/photo/adult-architect-blueprint-business-416405/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+        },
+        "strapline": "Meetups, competitions and events"
+      }
+    ]
+  },
+  {
+    "_id": "5a54f3f2b6720cc1189328c5",
+    "_layout": "left",
+    "_parentId": "5a54f3e3b6720cc1189328c4",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Successful data science startups are able to navigate the ecosystem around them, understanding and interacting with the relevant people and organisations. Are you ready to join them?&nbsp;</p>",
+    "displayTitle": "Are you ready to join the startup ecosystem? ",
+    "title": "Are you ready to join the startup ecosystem? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a54f3f6b6720cc1189328c6",
+    "_layout": "right",
+    "_parentId": "5a54f3e3b6720cc1189328c4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a54f458b6720cc1189328cd",
+    "_layout": "left",
+    "_parentId": "5a54f458b6720cc1189328cc",
+    "_type": "component",
+    "body": "<p><strong>When is a startup in the&nbsp;pre-seed stage of its journey?&nbsp;</strong></p>",
+    "displayTitle": "Stages of a startup's journey",
+    "title": "Q: What is the pre-seed stage of a startup? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "When it is an idea in the entrepreneur's head",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "When the startup has executed its business plan and has a strategy for growth",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "When the startup is up and running but does not have a repeatable sales model",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "When the startup has a value proposition but has not yet created the service or product",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A startup is at the pre-seed stage when it&nbsp;has a value proposition that will solve a present issue for customers, but has not created the service or product.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A startup is at the pre-seed stage when it&nbsp;has a value proposition that will solve a present issue for customers, but has not created the service or product.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a54f458b6720cc1189328ce",
+    "_layout": "right",
+    "_parentId": "5a54f458b6720cc1189328cc",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "small": "course/en/assets/d28ef400d5d11d9984ac313007e55a2d27589939.png",
+      "attribution": "<a href=\"http://www.freepik.com\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a54f46bb6720cc1189328d0",
+    "_layout": "right",
+    "_parentId": "5a54f466b6720cc1189328cf",
+    "_type": "component",
+    "body": "<p><strong>How does a venture capitalist fund support startups?</strong></p>",
+    "displayTitle": "Understanding funding sources",
+    "title": "Q: How does a venture capitalist fund support startups?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "They invest pooled money from high net worth individuals, foundations or other sources in startups in return for equity",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "They design a support problem that helps start and grow a startup business",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "They provide non--repayable grants to help with specific aspects or projects in a new business",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!&nbsp;</strong></p><p>A venture capitalist fund supports&nbsp;startups by&nbsp;investing pooled money from high net worth individuals, foundations or other sources in startups in return for equity.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A venture capitalist fund supports&nbsp;startups by&nbsp;investing pooled money from high net worth individuals, foundations or other sources in startups in return for equity.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a54f46fb6720cc1189328d1",
+    "_layout": "left",
+    "_parentId": "5a54f466b6720cc1189328cf",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/927c57f6a05ba0e8cb4a48ca074835e8ec71a4f4.png",
+      "small": "course/en/assets/927c57f6a05ba0e8cb4a48ca074835e8ec71a4f4.png",
+      "attribution": "<a href=\"https://www.freepik.com/free-vector/finance-concept-with-money-clipboard-and-clock_1304295.htm#term=money bag&page=1&position=28\" target=\"_blank\">Freepik</a> <span class='assetLicence'>[CC-BY]</span>"
+    }
+  },
+  {
+    "_id": "5a54f475b6720cc1189328d3",
+    "_layout": "left",
+    "_parentId": "5a54f470b6720cc1189328d2",
+    "_type": "component",
+    "body": "<p><strong>How can a mentor provide support to a startup?&nbsp;</strong></p>",
+    "displayTitle": "Additional forms of support",
+    "title": "Q: How can a mentor provide support to a startup? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "text": "They can provide a new perspective and advice on important decisions which help you achieve your startup’s goals.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "They can provide an office space for you to work in",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "They can provide you with training in technical skills",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "They provide you with funding",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A mentor can provide support to a startup by&nbsp;providing&nbsp;a new perspective and advice on important decisions which&nbsp;help you achieve your startup&rsquo;s goals.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A mentor can provide support to a startup by&nbsp;providing&nbsp;a new perspective and advice on important decisions which&nbsp;help you achieve your startup&rsquo;s goals.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a54f47ab6720cc1189328d4",
+    "_layout": "right",
+    "_parentId": "5a54f470b6720cc1189328d2",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "small": "course/en/assets/f4b7a83ca6a5ee395ea40ef51b5e6d07ac2e288e.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a588c45460f330a3d21c851",
+    "_layout": "left",
+    "_parentId": "5a588c0d460f330a3d21c846",
+    "_type": "component",
+    "body": "<p>There are 5 key components&nbsp;of embedding data science within your&nbsp;strategy:</p>",
+    "displayTitle": "The components of embedding data science within your strategy",
+    "title": "The components of embedding data science within your strategy",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "A clear, well-formulated vision",
+        "body": "<p>Embedding data science within your business&#39; strategy requires a clear, well-formulated vision.&nbsp;This is essential for gaining support for change from across the organisation, as well as from external stakeholders.<br /><br />There are different ways of framing this vision. Some businesses may demonstrate the importance of data science for solving a specific problem, whilst others may connect it to the tangible benefits that employees and customers will see.<br /><br />Connecting your use of data science&nbsp;to tangible solutions and benefits will help employees connect to the initiative and understand its value.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "A map of your resources",
+        "body": "<p>An essential element of embedding data science within your strategy&nbsp;is understanding your business&rsquo;s resources. This includes the&nbsp;data within your business and the wider sector ecosystem, as well as the human expertise&nbsp;and technical infrastructure needed to work with data.<br /><br />It is important to understand what data your organisation holds or can access through sharing, as this is the basis of data science. This includes gathering information about where data and metadata is stored, the structure of data and what it can be used for.<br /><br />It is also key to understand the data expertise and literacy&nbsp;within your organisation. This includes the structure, skills and motivations of different elements of your business&rsquo;s ecosystem. It will be hard to embed data science&nbsp;without access to data science expertise, or if current employment structures make it difficult for those with data skills to change roles. A good strategy will make plans for how the business will reduce barriers around human resources that make it easier to implement change.<br /><br />Finally, having the correct technical infrastructure is vital for exploiting data science within your business. Traditional technology may not be designed for data analysing &nbsp;Businesses who are dramatically scaling up their use of data science may need to invest in new software that helps them achieve their vision.<br /><br />Mapping your business&rsquo;s resources will help you understand how you can implement your vision, and where more investment is needed.<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "A plan for how you will maintain, govern, expand and share your data science resources",
+        "body": "<p>An essential part of embedding data science within your organisation&#39;s strategy&nbsp;is how you will manage your organisation&rsquo;s data in future. Effective maintenance and governance of data is an essential part of exploiting data science.<br /><br />This may include policies around how you will collect, maintain and use data, such as standards, conventions for naming and storing data and rules around how data should be licensed and shared. A plan for maintaining data resources and programmes is important for keeping data updated and complying with appropriate legislation.<br /><br />Finally, you should consider a roadmap for the future: how your business is planning to use data science in new and different ways using the resources you have.<br />&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Plans for sharing data, knowledge and lessons",
+        "body": "<p>Planning how your organisation will communicate internally and share lessons about data science is important. This breaks down silos between different parts of your ecosystem and avoids duplication, which can save&nbsp;time and resources associated with data.<br /><br />Business intelligence software company Pentaho <a href=\"http://www.pentaho.com/blog/2016/06/22/do-you-have-data-silo-problem\">implemented a&nbsp;strategy</a> to break down data silos across five of their departments. By planning a strategy that improved access to data across departments, the company were able to significantly improve the quality of data available for making decisions.</p><p>Other companies are also sharing data both internally and externally through&nbsp;Application Programming Interface&nbsp;(APIs). This is the case with event company&nbsp;Eventbrite, who <a href=\"https://www.eventbrite.com/developer/v3/\">provide an API </a>that enables users to integrate bookings data and&nbsp;see levels of engagement with their events. Data scientists in other organisations can then use this data to make decisions about their company&#39;s value proposition and identify new business opportunities.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Plans for evaluation, feedback and iteration",
+        "body": "<p dir=\"ltr\">The final component of embedding data science within your business&#39;&nbsp;strategy is your plan for evaluating and iterating your perspective on data science. The most successful&nbsp;strategies also have mechanisms for understanding what is working well and for incorporating feedback from employees. This helps retain support for the strategy and ensures the best ideas are implemented.</p><p dir=\"ltr\"><br />Make sure you have a timeline in your strategy, and include plans to reflect both during and at the end of your strategy. This will encourage you to engage in regular reflection.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a588c49460f330a3d21c852",
+    "_layout": "right",
+    "_parentId": "5a588c0d460f330a3d21c846",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "small": "course/en/assets/ae89cdad2159713a27356dc77444133d6aa294f8.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/building-blocks-toys-block-building-717309/\" target=\"_blank\">Spowell</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  },
+  {
+    "_id": "5a58a849460f330a3d21c861",
+    "_layout": "left",
+    "_parentId": "5a58a839460f330a3d21c860",
+    "_type": "component",
+    "body": "<p>As well as each business being its own ecosystem, ecosystems can also be made up of more than one business. This is the case with the startup ecosystem.</p><p dir=\"ltr\">Within any startup ecosystem, there are many different stages of startups. Some are just starting, whereas others have raised thousands in capital to fund their business.</p><p>Every business&rsquo; journey is different. However, there are roughly five main stages a startup will go through on its journey: idea, pre-seed, seed, growth (or &lsquo;early stage&rsquo;) and late-stage.&nbsp;</p><p>Startups in different stages of maturity, such as idea, pre-seed and seed, will interact with different kinds of funding sources in order to grow their business. These funding sources often overlap, especially in the seed, growth and later stages of a startup.</p><p>However,&nbsp;Not all support is financial. Besides funders, there are many types of support in the startup ecosystem for new businesses. These include accelerators and incubators, mentorship programmes, co-working spaces, courses, meetups, and competitions&nbsp;and events.</p><p>Successful data science startups are able to navigate the ecosystem around them, understanding and interacting with the relevant people and organisations. In the next module, we&#39;ll examine how startups interact with the&nbsp;ecosystems of whole sectors.&nbsp;</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/id/5a5323a3b6720cc118932850\">Previous module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/id/5a5c8d14460f330a3d21c86d\">Next module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a58a84b460f330a3d21c862",
+    "_layout": "right",
+    "_parentId": "5a58a839460f330a3d21c860",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a5c8f50460f330a3d21c870",
+    "_layout": "left",
+    "_parentId": "5a5c8d14460f330a3d21c86f",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">In addition to exploiting data science within a business&rsquo;s ecosystem, there are also opportunities to use data science to impact the ecosystem of a sector. Many businesses are now using data science techniques to collaborate, compete and disrupt entire sectors like music, transport and banking.</p><p dir=\"ltr\">In this module, you will learn:</p><ul dir=\"ltr\"><li>What a sector ecosystem is</li><li>Common types of actors in a sector ecosystem</li><li>The differences between a closed, shared and open sector ecosystem</li><li>Possible futures for sector ecosystems</li></ul>",
+    "displayTitle": "Exploiting data science within sectors",
+    "title": "Exploiting data science within sectors",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "ticks",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5c8f53460f330a3d21c871",
+    "_layout": "right",
+    "_parentId": "5a5c8d14460f330a3d21c86f",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "intro-logo",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "small": "course/en/assets/f64ad121fc8e0250264e5d5f00c90d78cd6271a0.png",
+      "attribution": "<a href=\"http://theodi.org/\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[All rights reserved]</span>"
+    }
+  },
+  {
+    "_id": "5a5c9029460f330a3d21c875",
+    "_layout": "right",
+    "_parentId": "5a5c8f8f460f330a3d21c874",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Consultancy McKinsey <a href=\"https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/as-sector-borders-dissolve-new-business-ecosystems-emerge\">defines a sector ecosystem </a>as &lsquo;a complex network of interconnected businesses that depend on and feed on each other to deliver value for customers, to the end users, and their key stakeholders&rsquo;. In other words, it is an economic community of different actors that collaborate and compete in a common sector, like music or sport, or towards a common goal, like mobility. Like a biological ecosystem, sector ecosystems are dynamic and constantly evolving. Each actor (an individual or business in the ecosystem) needs to work out how to interact, collaborate and compete with other actors in their ecosystem in order to deliver its mission.&nbsp;</p>",
+    "displayTitle": "What is a sector ecosystem? ",
+    "title": "What is a sector ecosystem? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5c902f460f330a3d21c876",
+    "_layout": "left",
+    "_parentId": "5a5c8f8f460f330a3d21c874",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9d88cd39fe61b86a631a671be1812b639436e083.jpg",
+      "small": "course/en/assets/9d88cd39fe61b86a631a671be1812b639436e083.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-68619337\" target=\"_blank\">Paperboat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a5c90bf460f330a3d21c87a",
+    "_layout": "full",
+    "_parentId": "5a5c90ae460f330a3d21c879",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Every sector ecosystem is different. However, across most ecosystems we can see common types of actors.</p>",
+    "displayTitle": "Who are the common actors in a sector ecosystem?",
+    "title": "Who are the common actors in a sector ecosystem?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "narrative",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "mobileInstruction": "",
+    "_hasNavigationInTextArea": true,
+    "_setCompletionOn": "allItems",
+    "_items": [
+      {
+        "title": "Leading organisations ",
+        "body": "<p dir=\"ltr\">Leaders are some of the most visible actors within a sector ecosystem. They are usually businesses who own data, products or services that other businesses depend on to provide or perform better in their own services. Leaders are extremely important as they have significant power within the value chain from data to consumer, and may control a large share of the market. However, often their power is checked, as they can only maintain this position by ensuring their products and services provide value for the other businesses that depend on them.<br /><br />Examples of ecosystem leaders&nbsp;include:</p><p dir=\"ltr\">- Apple, whose iPhone, iPad and Mac products<a href=\"https://guerric.co.uk/business-ecosystem/\"> support an ecosystem of other companies</a> and products</p><p dir=\"ltr\">- Wal-Mart, <a href=\"https://hbr.org/2004/03/strategy-as-ecology\">whose procurement system offers</a> suppliers real time information on customer demand to integrate into their own systems</p><p dir=\"ltr\">- Transport for London (TfL), whose open data supports hundreds of transport applications and services</p><p dir=\"ltr\">These organisations are&nbsp;important in shaping the activities and future of their respective sector ecosystems. In turn, they benefit from the activities of other&nbsp;businesses using their services by being able to offer a more interactive user experience or make improvements to supply chains at little cost.</p>",
+        "_graphic": {
+          "src": "course/en/assets/d2bdbfbb07b24d7561e89b5ff069d5f6d6e39774.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/kjarrett/10644544846\" target=\"_blank\">Kevin Jarrett</a> <span class='assetLicence'>[CC-BY]</span>"
+        },
+        "strapline": "Leading organisations "
+      },
+      {
+        "title": "Startups/SMEs",
+        "body": "<p dir=\"ltr\">Startups and small medium enterprises (SMEs) are also important actors within many sector ecosystems. These actors are often disruptive innovators that introduce new ideas and technologies within a sector, especially in the realm of data science.<br /><br />Leaders and startups within a sector may form mutually beneficial relationships that allow both to benefit. For instance,<a href=\"https://developers.google.com/apis-explorer/#p/\"> Google&rsquo;s API </a>provides mapping data that allows businesses like <a href=\"https://www.uber.com/en-GB/\">Uber</a> to integrate Google&rsquo;s data rather than create their own online map in their service. This relationship allows leaders to benefit from new innovations for competitive advantage and maintaining their position, whilst allowing the startup to more efficiently use resources and increase their influence within the sector. &nbsp;Learn more about the startup ecosystem in the <a href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/id/5a5323d6b6720cc118932853\">&lsquo;Exploring the startup ecosystem in Europe&rsquo; module.</a></p>",
+        "_graphic": {
+          "src": "course/en/assets/1359c7d0c8e43a9f4c60438b8039af1d00e1b216.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/data-bits-computer-shadow-dark-vignette-231672367\" target=\"_blank\">Imagentle</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Startups/SMEs"
+      },
+      {
+        "title": "Resource providers",
+        "body": "<p>In many sectors, vendors, contractors and suppliers, otherwise known as resource providers, are a critical part of the sector ecosystem that enable the value chains of other businesses to exist. They supply tools and services that other organisations use. They may manufacture parts of the goods that others sell, or&nbsp;deliver your products to consumers once complete.<br /><br />For companies using data science, these resource providers may be data aggregators, data analytics companies or software and hardware providers. For example, <a href=\"https://www.arduino.cc/\">Arduino</a> is a computer hardware and software company that <a href=\"https://creativecommons.org/wp-content/uploads/2017/04/made-with-cc.pdf\">manufacture electronic boards</a>. Individuals are able to programme these boards using the Arduino programming language and software to perform tasks. These kits allow people to create models and projects using data science techniques that enhance their value chain.</p>",
+        "_graphic": {
+          "src": "course/en/assets/3870d2023395291d5f1bd5c0837f8178067fd665.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-photo/tabulation-statistical-data-business-analysis-office-262874696?src=id\" target=\"_blank\">Benjaminec</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Resource providers"
+      },
+      {
+        "title": "Regulators",
+        "body": "<p dir=\"ltr\">In almost every sector, there are regulators. These are bodies&nbsp;who create the policies and legislative frameworks within which others operate.</p><p dir=\"ltr\"><br />As innovation with data science becomes widespread within many sectors, the way that regulators are performing their role is changing. Many are trying to introduce new forms of regulation that do not suppress innovation but still protect the public interest, and <a href=\"https://www2.deloitte.com/us/en/pages/operations/articles/business-ecosystems.html\">promote a business ecosystem approach</a>. This is true in Tampere, Finland, where the government &nbsp;has introduced<a href=\"http://www.mdpi.com/2071-1050/8/9/922/htm\">&nbsp;innovation platforms</a> like <a href=\"https://www.demola.net/\">DEMOLA</a> and <a href=\"http://www.newfactory.fi/\">New Factory</a>&nbsp;to encourage collaboration between businesses to solve problems.</p>",
+        "_graphic": {
+          "src": "course/en/assets/c1066cfc5f2fdc1cb7ba51c61b00857aabbf624d.png",
+          "alt": "",
+          "attribution": "<a href=\"https://www.flickr.com/photos/slopjop/2391468254/in/photolist-4DjUch-njbKbd-rbQ25z-qAepad-9Bc55F-s8Nhs-Wr8jS8-QAZQNc-cXAig3-TsXpUJ-KjBwp-k8rVoc-4jFJRp-GsWPS-dThdEA-rQABpi-akY1MB-WYMuDN-Gt21F-nuUkDh-jQWGua-REZCd-neYJUL-e5z7Kc-jGKvSQ-kF2gHu-rdrczo-qN2Vqy-qB7X-Vu8tzi-avo6ZM-hBR9WW-4yGzmA-31oeuB-niKLWR-5nAmLP-5jPX82-7WK1hM-EL5Z7b-oEA4hg-egTZ23-dhdxnb-c5PhPq-4bLGhG-4DfEdr-vV77nW-5udiXM-8feyaz-7EcsSu-VZ8jAi\" target=\"_blank\">Clay Junell</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+        },
+        "strapline": "Regulators"
+      },
+      {
+        "title": "Consumers and users",
+        "body": "<p>Consumers and users&nbsp;are a critical element of every sector ecosystem. One of the main goals of most ecosystems are to deliver value for the consumer, whether they are an individual or another organisation. This is because the central part of every business is its value proposition: the valuable solution they provide for their consumers and users.</p><p>One of the advantages of data science is that businesses are increasingly collecting data about the consumer that helps create a more personalised, valuable experience.<strong> </strong>Consumers have come to expect personalised services that are only possible through using personal data and data science techniques. For instance, the <a href=\"https://www.nectar.com/\">Nectar card scheme </a>collects data about consumer purchases among a variety of partners in the sector ecosystem, and provides them with offers tailored to their interests. Users who opt in can gain value from the data science techniques that underlie the Nectar card programme.</p>",
+        "_graphic": {
+          "src": "course/en/assets/eed0644dc961a7812f4380ae199c1a1bc239ad74.jpg",
+          "alt": "",
+          "attribution": "<a href=\"http://www.shutterstock.com/pic-164731838.html\" target=\"_blank\">STH</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Consumers and users"
+      },
+      {
+        "title": "Advocates and advisors",
+        "body": "<p>Finally, advocates and advisors are important parts of a sector ecosystem. These are organisations who encourage organisations to behave in particular ways or advise businesses about good practice in their strategy and operations.</p><p>Advocates for data and data science include the <a href=\"https://theodi.org/\">Open Data Institute</a>, whilst organisations like <a href=\"https://www.mckinsey.com/\">McKinsey</a> and <a href=\"https://www2.deloitte.com/uk/en.html\">Deloitte</a> regularly advise businesses on strategies for embedding data science.&nbsp;</p>",
+        "_graphic": {
+          "src": "course/en/assets/efa0d45f4d5eeac4d12a9bef83ac2a6169568150.jpg",
+          "alt": "",
+          "attribution": "<a href=\"https://www.shutterstock.com/image-illustration/large-group-people-shape-chat-bubblewhite-234353791\" target=\"_blank\">tai11</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+        },
+        "strapline": "Advocates and advisors"
+      }
+    ]
+  },
+  {
+    "_id": "5a5cb95f460f330a3d21c882",
+    "_layout": "left",
+    "_parentId": "5a5cb8f4460f330a3d21c881",
+    "_type": "component",
+    "body": "<p>Different sector ecosystems can be closed, shared or open. This depends on the way that an ecosystem&#39;s&nbsp;actors interact, especially in how data and information is exchanged. &nbsp;<br /><br />New data science techniques mean that data is becoming a force for change in some sector ecosystems: ecosystems that have been traditionally been closed are now moving to more shared or open models. Learn about some of these sectors below.</p>",
+    "displayTitle": "Closed, shared and open ecosystems",
+    "title": "Closed, shared and open ecosystems",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "accordion",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_items": [
+      {
+        "title": "Closed ecosystems",
+        "body": "<p>A closed ecosystem is an ecosystem where data, information and data science techniques used to extract insight are contained within the ecosystems of individual businesses, and viewed as proprietary content or intellectual property.&nbsp;<br /><br />By containing these data flows, actors in the ecosystem hope to gain advantage over other actors by collecting more information and developing better data science techniques to provide value to the consumer. Actors assume that will help them gain a competitive advantage that gives them a bigger share of the market.<br /><br />An example of a closed ecosystem is the music sector, which has&nbsp;historically tried to keep everything closed. However, actors such as Youtube and Spotify have forced the industry to diversify and look for new business models as people expect to be able to access music at the click of a button. New business models include providing priority access to additional content or gig tickets for purchasing of albums and tracks.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Shared ecosystems",
+        "body": "<p>A shared ecosystem is characterised by some interaction and exchange of data and information between actors. However, transparency around data and information remains limited. Interaction may be in the form of open collaboration that is confined to a leader and its surrounding ecosystem, limited bursts of openness between competitive businesses, or some required data sharing in order to respond to laws or operate common infrastructure.<br /><br />An example of a shared ecosystem is medical research. Across many countries, there is some interaction and exchange of data between actors in the medical sector. This is often to share findings and results from&nbsp;medical trials in order to&nbsp;improve medical provisions quickly and reduce duplication in research. Sharing information among actors in the ecosystem, whilst respecting issues around privacy and personal data,&nbsp;allows for increased efficiency that would not otherwise be possible.&nbsp;</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      },
+      {
+        "title": "Open ecosystems",
+        "body": "<p dir=\"ltr\">Open ecosystems are characterised by significant interaction and data flows between actors. There is regular collaboration between actors, and opportunities for innovation and problem solving are as open as possible, whilst respecting privacy and commercial confidentiality.&nbsp;<br /><br />An example of an emerging open ecosystem is the sport and physical activity sector. The <a href=\"https://www.openactive.io/\">OpenActive </a>movement in the UK is seeking to open up the sector&rsquo;s ecosystem by encouraging activity providers to open up their data. This enables a larger proportion of the ecosystem to benefit by unlocking opportunities for everyone to engage in their activities.</p>",
+        "_graphic": {
+          "alt": "",
+          "src": "",
+          "attribution": ""
+        },
+        "_classes": ""
+      }
+    ],
+    "_shouldCollapseItems": true
+  },
+  {
+    "_id": "5a5cb961460f330a3d21c883",
+    "_layout": "right",
+    "_parentId": "5a5cb8f4460f330a3d21c881",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/0c4e44ae54cc60d53a31c2bcff4471570e961d9d.jpg",
+      "small": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-185008832\" target=\"_blank\">suarassawadee</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a5cbabe460f330a3d21c887",
+    "_layout": "right",
+    "_parentId": "5a5cbab0460f330a3d21c886",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data science is transforming the way that sector ecosystems interact. Traditional sector boundaries are breaking down as ecosystems are becoming more open.</p><p dir=\"ltr\">For instance, car manufacturer <a href=\"https://www.mercedes-benz.co.uk/\">Mercedes Benz</a> have <a href=\"https://www.accenture.com/t00010101T000000Z__w__/gb-en/_acnmedia/PDF-4/Accenture-Strategy-Business-Ecosystem-versus-Ecosystem-V2.pdf#zoom=50\">created a &lsquo;connected car&rsquo;</a> which has API connections to <a href=\"https://nest.com/uk/thermostats/nest-learning-thermostat/overview/\">Nest</a> thermostats in drivers&rsquo; homes, allowing consumers to automatically heat their home at the right time, e.g. when leaving work. This trend is likely to continue into the future as sector borders dissolve and ecosystems become open.</p><p dir=\"ltr\">Businesses who wish to remain competitive in this new world of data science must consider how their organisation&rsquo;s data and data science techniques can be used to create value for the consumer and the whole ecosystem. This will ensure that these businesses thrive as&nbsp;<a href=\"https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/as-sector-borders-dissolve-new-business-ecosystems-emerge\">as sector borders dissolve</a> and ecosystems become open.</p>",
+    "displayTitle": "The future of sector ecosystems",
+    "title": "The future of sector ecosystems",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5cbac1460f330a3d21c888",
+    "_layout": "left",
+    "_parentId": "5a5cbab0460f330a3d21c886",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/326566ec4ff6a7d06a52389970b26d62e144d93d.jpg",
+      "small": "course/en/assets/326566ec4ff6a7d06a52389970b26d62e144d93d.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-79079872\" target=\"_blank\">Angela Waye</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a5cbbf1460f330a3d21c88c",
+    "_layout": "left",
+    "_parentId": "5a5cbbe0460f330a3d21c88b",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Many businesses are now using data science techniques to collaborate, compete and disrupt entire sectors like music, transport and banking. Are you ready to join them?</p>",
+    "displayTitle": "Are you ready to exploit data science in your sector?",
+    "title": "Are you ready to exploit data science in your sector?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5cbbf5460f330a3d21c88d",
+    "_layout": "right",
+    "_parentId": "5a5cbbe0460f330a3d21c88b",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "small": "course/en/assets/91d7d44849aaa32d953399c315d3338572889c74.png",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a5cbc9a460f330a3d21c89b",
+    "_layout": "left",
+    "_parentId": "5a5cbc8e460f330a3d21c89a",
+    "_type": "component",
+    "body": "<p><strong>What is a sector ecosystem?</strong></p>",
+    "displayTitle": "Defining sector ecosystems",
+    "title": "Q: What is a sector ecosystem?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "An economic community of different actors that collaborate and compete in a common sector or towards a common goal",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "All the businesses that use the same form of technology",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "All the businesses in the environmental sector",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>A sector ecosystem is an economic community of different actors that collaborate and compete in a common sector or towards a common goal.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>A sector ecosystem is an economic community of different actors that collaborate and compete in a common sector or towards a common goal.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a5cbc9d460f330a3d21c89c",
+    "_layout": "right",
+    "_parentId": "5a5cbc8e460f330a3d21c89a",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/9d88cd39fe61b86a631a671be1812b639436e083.jpg",
+      "small": "course/en/assets/9d88cd39fe61b86a631a671be1812b639436e083.jpg",
+      "attribution": "<a href=\"http://www.shutterstock.com/pic-68619337\" target=\"_blank\">Paperboat</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a5cbca2460f330a3d21c89e",
+    "_layout": "left",
+    "_parentId": "5a5cbc9e460f330a3d21c89d",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "small": "course/en/assets/ac8ed9a5107f9fa9e722fd5917db7325e48cbe49.jpg",
+      "attribution": "<a href=\"https://www.shutterstock.com/image-vector/global-communication-concept-102447179\" target=\"_blank\">hoperan</a> <span class='assetLicence'>[Shutterstock standard licence]</span>"
+    }
+  },
+  {
+    "_id": "5a5cbca6460f330a3d21c89f",
+    "_layout": "right",
+    "_parentId": "5a5cbc9e460f330a3d21c89d",
+    "_type": "component",
+    "body": "<p><strong>Why are consumers and users an important part of every ecosystem?&nbsp;</strong></p>",
+    "displayTitle": "Actors within ecosystems",
+    "title": "Q: Why are consumers and users an important part of every ecosystem? ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Because the value proposition for users/consumers is central to every business",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      },
+      {
+        "text": "Because the customer comes first",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Because they give you money ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>Consumers and users an important part of every ecosystem because&nbsp;the value proposition for users/consumers is central to every business.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>Consumers and users an important part of every ecosystem because&nbsp;the value proposition for users/consumers is central to every business.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a5cbcab460f330a3d21c8a1",
+    "_layout": "right",
+    "_parentId": "5a5cbca8460f330a3d21c8a0",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "small": "course/en/assets/28119d3ac6852c7c89ced4ac0e2587b10ba41273.jpeg",
+      "attribution": ""
+    }
+  },
+  {
+    "_id": "5a5cbcaf460f330a3d21c8a2",
+    "_layout": "left",
+    "_parentId": "5a5cbca8460f330a3d21c8a0",
+    "_type": "component",
+    "body": "<p><strong>Why is the sport and physical activity sector an open ecosystem? &nbsp;</strong></p>",
+    "displayTitle": "Closed, shared and open ecosystems",
+    "title": "Q: Why is the sport and physical activity sector an open ecosystem?  ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "mcq",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "Select one answer, then click 'Submit'",
+    "_items": [
+      {
+        "text": "Because data, information and knowledge does not flow freely between different actors. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Because there is some interaction and exchange of data and information between actors, but transparency around data and information remains limited. ",
+        "_shouldBeSelected": false,
+        "feedback": ""
+      },
+      {
+        "text": "Because there is significant interaction and data flows between actors.",
+        "_shouldBeSelected": true,
+        "feedback": ""
+      }
+    ],
+    "_attempts": 1,
+    "_canShowModelAnswer": true,
+    "_canShowFeedback": true,
+    "_canShowMarking": true,
+    "_shouldDisplayAttempts": false,
+    "_isRandom": false,
+    "_recordInteraction": true,
+    "_questionWeight": 1,
+    "_selectable": 1,
+    "_feedback": {
+      "correct": "<p><strong>That&#39;s right!</strong></p><p>The sport and physical activity sector is an open ecosystem because there is significant interaction and data flows between actors. This is being achieved through the OpenActive initiative.</p>",
+      "_incorrect": {
+        "final": "<p><strong>Are you sure?</strong></p><p>The sport and physical activity sector is an open ecosystem because there is significant interaction and data flows between actors. This is being achieved through the OpenActive initiative.</p>",
+        "notFinal": ""
+      },
+      "_partlyCorrect": {
+        "final": "",
+        "notFinal": ""
+      }
+    },
+    "_buttons": {
+      "_submit": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_reset": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_hideCorrectAnswer": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "_showFeedback": {
+        "buttonText": "",
+        "ariaLabel": ""
+      },
+      "remainingAttemptsText": "",
+      "remainingAttemptText": ""
+    }
+  },
+  {
+    "_id": "5a5cbcb9460f330a3d21c8a5",
+    "_layout": "left",
+    "_parentId": "5a5cbcb1460f330a3d21c8a4",
+    "_type": "component",
+    "body": "<p>Many businesses are now using data science techniques to collaborate, compete and disrupt entire sectors like music, transport and banking. They do this within sector ecosystems, which is&nbsp;an economic community of different actors that collaborate and compete in a common sector, like music or sport, or towards a common goal, like mobility.</p><p>Across most ecosystems we can see common types of actors, such as leading organisations, startups and SMEs, resource providers, regulators and consumers and users. Depending&nbsp;on the way that these actors interact, especially in how data and information is exchanged, ecosystems can be closed, shared or open.&nbsp;</p><p>In the future, sector ecosystems may look very different, as data science is transforming the way that sector ecosystems interact. Consequently,&nbsp;businesses&nbsp;must consider how their organisation&rsquo;s data and data science techniques can be used to create value for the consumer and the whole ecosystem, as sector borders dissolve and ecosystems&nbsp;become open.</p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/id/5a5323d6b6720cc118932853\">Previous module</a></p><p><a class=\"button\" href=\"http://create.learndata.info/preview/579b7407f399990a1aefebc6/5a532377b6720cc11893284e/#/\">Main menu</a></p>",
+    "displayTitle": "Summary",
+    "title": "Summary",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a5cbcbc460f330a3d21c8a6",
+    "_layout": "right",
+    "_parentId": "5a5cbcb1460f330a3d21c8a4",
+    "_type": "component",
+    "body": "",
+    "displayTitle": "Component title",
+    "title": "Component title",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "inverted color-seven",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": false
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "small": "course/en/assets/484db8c2bdaed7a020ae10c7a958be8be7b3e4f1.png",
+      "attribution": "<a href=\"https://theodi.org\" target=\"_blank\">The Open Data Institute</a> <span class='assetLicence'>[CC-BY-SA]</span>"
+    }
+  },
+  {
+    "_id": "5a6603e7460f330a3d21c9dc",
+    "_layout": "left",
+    "_parentId": "5a6603e0460f330a3d21c9db",
+    "_type": "component",
+    "body": "<p dir=\"ltr\">Data science is transforming the way that sector ecosystems interact. Data science techniques and technologies, alongside the abundance of data, have neabled companies to gain deep insight from data and deliver their mission.&nbsp;Companies are using data to <a href=\"https://www.mckinsey.com/business-functions/strategy-and-corporate-finance/our-insights/as-sector-borders-dissolve-new-business-ecosystems-emerge\">&lsquo;reinvent&#39; their business model</a> or adopt new business models to operate across multiple sectors. As a result, traditional sector boundaries are breaking down.</p><p dir=\"ltr\"><br />However, despite these changes, not all value from data has been realised&nbsp;within some sector ecosystems. <a href=\"https://www.mckinsey.com/business-functions/mckinsey-analytics/our-insights/the-age-of-analytics-competing-in-a-data-driven-world\">McKinsey estimates</a> that only 20-30% of value from data and analytics has been realised&nbsp;in the manufacturing sector, and only 10-20% in the EU public sector. This may because many organisations have not embedded data science within their&nbsp;business strategy.</p>",
+    "displayTitle": "How is data science transforming ecosystems?",
+    "title": "How is data science transforming ecosystems?",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "text",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": ""
+  },
+  {
+    "_id": "5a6603ea460f330a3d21c9dd",
+    "_layout": "right",
+    "_parentId": "5a6603e0460f330a3d21c9db",
+    "_type": "component",
+    "body": "",
+    "displayTitle": " ",
+    "title": " ",
+    "_isAvailable": true,
+    "_isOptional": false,
+    "_classes": "",
+    "_component": "graphic",
+    "_pageLevelProgress": {
+      "_isEnabled": true
+    },
+    "instruction": "",
+    "_graphic": {
+      "alt": "",
+      "large": "course/en/assets/c3ace2f57b173e56cfdaea4e8758cc0ab147a2b0.jpg",
+      "small": "course/en/assets/c3ace2f57b173e56cfdaea4e8758cc0ab147a2b0.jpg",
+      "attribution": "<a href=\"https://pixabay.com/en/art-cogs-colorful-colourful-1866468/\" target=\"_blank\">Pexels</a> <span class='assetLicence'>[CC0]</span>"
+    }
+  }
+]
